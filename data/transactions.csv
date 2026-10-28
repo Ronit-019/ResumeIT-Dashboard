@@ -1,0 +1,142 @@
+transaction_id,source_event_id,user_id,transaction_at,journey_name,plan,price_inr,payment_status,recognized_revenue_inr,is_synthetic
+748b68c8-a19a-4882-87ad-6b78ca4f003f,73b43bcc-6433-433f-82c7-8ef8bb411d73,user_01131,2026-05-17T03:18:16+00:00,AI Resume Generation,Weekly,99.0,success,99.0,True
+1c9ead7a-a70f-4413-9d5f-b4dfa7d28482,3c65da45-9d0b-4901-929e-9f9de71c245c,user_01115,2026-05-21T15:38:01+00:00,Create Resume from Scratch,Weekly,99.0,success,99.0,True
+53d0fd68-3a68-4389-9b85-1074d127f5c0,a0df0396-dc13-424c-8ed4-a2fe6c7cad7a,user_00128,2026-05-25T16:25:08+00:00,Create Resume from Scratch,Weekly,99.0,success,99.0,True
+472f1091-9d48-41e2-bb33-11292d1ada36,226b89fc-facc-410f-97c7-dd661620ca08,user_00468,2026-05-26T05:39:50+00:00,AI Resume Generation,Weekly,99.0,success,99.0,True
+a64c8020-5e1a-4335-8d38-8724dce2e664,c2bd4e7c-f301-482f-842e-9935e9d3a42a,user_01028,2026-05-28T07:26:13+00:00,Create Resume from Scratch,Lifetime,799.0,failed,0,True
+8a2d3d15-0f34-4aa0-a01e-59a89daee52c,31343e9b-8b91-414f-a3bc-d496b56b21db,user_00130,2026-06-02T10:24:15+00:00,Improve Existing Resume,Yearly,499.0,failed,0,True
+8ba2be73-da28-4419-a444-802678de785f,f97fac8e-b1d8-4e4d-82c1-e4b2d7679541,user_00107,2026-06-03T15:28:17+00:00,Create Resume from Scratch,Yearly,499.0,failed,0,True
+43212174-e733-49d3-9e7e-b12dd29833d3,804ddbf0-11ed-4114-817e-85aaca352353,user_00197,2026-06-06T06:45:35+00:00,Improve Existing Resume,Weekly,99.0,success,99.0,True
+f2143c08-a023-405a-914e-13e84a769eeb,fa9c94f1-da94-47b0-a7e0-525563dd559c,user_01056,2026-06-07T11:10:44+00:00,Create Resume from Scratch,Weekly,99.0,success,99.0,True
+f0415d67-a11f-4ba0-b5c2-b25dc12267ac,f4f89aec-fd84-4235-84d1-1afe88dd4afa,user_00520,2026-06-08T12:04:17+00:00,Improve Existing Resume,Yearly,499.0,failed,0,True
+fb8d6f71-37b4-4597-b82d-5c728819d5ba,acc62d21-98b6-4471-8532-b3cc0421a772,user_01444,2026-06-09T03:40:47+00:00,Improve Existing Resume,Yearly,499.0,success,499.0,True
+b2e960e0-0aa9-4df0-a2a0-631c9a378980,9143db1b-0f59-4f55-a909-4d68ec1f64ec,user_00922,2026-06-12T19:02:23+00:00,AI Resume Generation,Lifetime,799.0,success,799.0,True
+3b1e9845-b36a-468b-a944-b8039ee7e339,9519ccc6-7dce-4240-bb78-edb4ca283f3f,user_00703,2026-06-14T02:07:48+00:00,AI Resume Generation,Weekly,99.0,success,99.0,True
+060dc024-3b81-4921-bdc4-0230368790b8,4904377b-30f1-4e90-8155-b149d17b92a9,user_00816,2026-06-24T23:16:46+00:00,Create Resume from Scratch,Weekly,99.0,success,99.0,True
+b268e0f7-e00c-4655-9200-0236b4de36de,9dde9560-c272-43a2-840c-c6e32bebe3f3,user_00153,2026-06-25T08:49:14+00:00,Create Resume from Scratch,Weekly,99.0,success,99.0,True
+f8abdac0-5d9d-4d12-b3b1-1cadfed18b41,523fd5da-506b-4b87-a4f1-f60b73fe4e4e,user_00295,2026-06-27T11:16:14+00:00,AI Resume Generation,Weekly,99.0,success,99.0,True
+ffc4d3cf-e147-4c1b-b315-c3f244944b4c,d3a6484b-adf4-422b-b2d9-3da7f2f7477e,user_00574,2026-06-28T19:57:31+00:00,AI Resume Generation,Yearly,499.0,success,499.0,True
+2b58942a-ee99-42fc-8ffa-6616f023c704,6349c418-6910-4fa2-acbd-4298afddc871,user_01454,2026-06-30T12:36:41+00:00,Create Resume from Scratch,Weekly,99.0,success,99.0,True
+404e50e7-ab75-4cf5-a10a-a0061b481242,0c228ffe-ca72-4e48-bc97-328a4a0abfd7,user_01334,2026-07-02T07:40:28+00:00,Create Resume from Scratch,Yearly,499.0,failed,0,True
+2a46c058-e4c6-4da5-bbe7-1ddd4c597434,e7df7d2b-e73b-4649-a8c8-1e2eb894d051,user_00807,2026-07-02T07:52:51+00:00,Create Resume from Scratch,Lifetime,799.0,failed,0,True
+c7919e29-68a1-4bce-b121-3b3849c0582a,27123b0a-98f5-4d02-a8fe-d365255e9b76,user_00045,2026-07-02T13:42:52+00:00,Improve Existing Resume,Lifetime,799.0,success,799.0,True
+f6f2a542-0d53-4d71-8c78-0f120e647e6f,b15a68cd-cd37-4338-bcd6-179a5af22f4b,user_00572,2026-07-02T23:04:36+00:00,Create Resume from Scratch,Yearly,499.0,success,499.0,True
+45070406-7365-494b-a367-62038c9f75ad,0a66b80b-6e0b-4c09-bcec-f2ac587d3eb6,user_01032,2026-07-04T21:55:14+00:00,Create Resume from Scratch,Lifetime,799.0,success,799.0,True
+46c262f9-f6a3-4a2f-aa51-acf8494f2fbc,a2c6d16d-163f-4f81-849d-9e8eceeb26a3,user_01314,2026-07-06T20:06:35+00:00,Improve Existing Resume,Yearly,499.0,success,499.0,True
+ca710e84-1381-4ef2-b7f5-02334f917c5f,7b0779c0-b2ff-4a99-9379-077f31f9a068,user_00777,2026-07-08T08:34:45+00:00,AI Resume Generation,Lifetime,799.0,success,799.0,True
+89dc7a62-7b6e-4bb2-9907-031c1a15140c,516b96af-9282-41cb-9eee-7f8e3fbc4f12,user_01017,2026-07-10T07:26:57+00:00,AI Resume Generation,Yearly,499.0,success,499.0,True
+7a0f7f60-af04-4ed5-9783-155fe213fd4b,0d30c6c1-8afb-4ff7-8a6a-62bb70af7f86,user_01028,2026-07-10T08:23:13+00:00,AI Resume Generation,Weekly,99.0,success,99.0,True
+6084a171-9cab-4e69-8a47-9674a94e4775,6f7c540d-e8c7-42f8-a305-d222e7e49810,user_01182,2026-07-11T16:01:01+00:00,Create Resume from Scratch,Yearly,499.0,success,499.0,True
+e38e91c0-32c0-4764-85ae-dc2cf1e0d882,593459ed-35ad-48ef-a5c7-685673ac3710,user_01476,2026-07-12T07:30:28+00:00,Create Resume from Scratch,Lifetime,799.0,success,799.0,True
+2b62f300-6222-4ccc-b8b9-4b902894c7bd,da5f6e7c-5f4b-441c-9c9d-d900870b6471,user_00106,2026-07-13T01:57:06+00:00,Create Resume from Scratch,Weekly,99.0,success,99.0,True
+53078f37-9ce0-4cb4-a9de-171519a922a6,23218f08-1bb0-4a45-91e4-9c0742fe365e,user_01128,2026-07-14T00:47:04+00:00,Create Resume from Scratch,Lifetime,799.0,success,799.0,True
+206278ad-00ac-409c-8d6a-3fd8afe6665e,c379e5b8-e457-4f73-a92e-77218d527b77,user_00621,2026-07-14T00:53:30+00:00,AI Resume Generation,Weekly,99.0,success,99.0,True
+8ecf25d1-fdcd-472f-ac7e-a134867413ef,b5abd487-32cb-4669-9129-3b0295917c9b,user_00403,2026-07-14T04:29:06+00:00,Create Resume from Scratch,Lifetime,799.0,success,799.0,True
+81cac530-8a22-4edb-885c-979a932d65cd,fe3a4801-51a1-435d-9f66-da232c1fc920,user_01167,2026-07-14T08:07:57+00:00,Create Resume from Scratch,Weekly,99.0,success,99.0,True
+d920d35d-cf4a-4161-97a3-585465cf055b,43d00f6d-6402-4898-9dd8-f33af1a510fe,user_01048,2026-07-15T15:26:09+00:00,AI Resume Generation,Weekly,99.0,success,99.0,True
+a34f6daf-c68b-4ee9-8505-49f519251fdf,fd4c1e8a-2a6e-4175-b5b8-d7a58c8bed46,user_01180,2026-07-19T10:47:59+00:00,AI Resume Generation,Weekly,99.0,success,99.0,True
+59ddd384-9a11-4061-9e33-d495f3f6802b,e4ab5b76-6476-4f3b-9409-48143b5058e4,user_00945,2026-07-20T08:52:59+00:00,Create Resume from Scratch,Yearly,499.0,success,499.0,True
+5a06e126-9aa7-4b5e-97dc-e03c15581cd4,ae926497-7a21-4b47-a86d-d899c20b61d4,user_00774,2026-07-20T12:50:50+00:00,Create Resume from Scratch,Lifetime,799.0,success,799.0,True
+58612290-d466-42b4-9859-af1406872712,7fb44795-7d10-4e14-a4e4-ecf0ce5555a2,user_01032,2026-07-21T22:52:14+00:00,AI Resume Generation,Weekly,99.0,success,99.0,True
+2da23cc7-cce3-431b-b1d9-f7035352d6c5,991e2324-9962-4c6b-922d-9f9ecd0adf05,user_01286,2026-07-22T01:41:10+00:00,Create Resume from Scratch,Lifetime,799.0,success,799.0,True
+394f3df0-956c-4d11-b27f-0e880afc827e,be8a916d-67af-412a-b477-4ad2dd4edb6f,user_00765,2026-07-23T06:50:49+00:00,AI Resume Generation,Weekly,99.0,success,99.0,True
+6454385d-d9b6-4ab8-9d5e-b7794588e32b,b79f55e3-448a-40dd-9099-39afac51fcb4,user_00324,2026-07-24T02:50:19+00:00,AI Resume Generation,Lifetime,799.0,success,799.0,True
+8d3afe1a-057f-4804-9044-673dd7f43123,e412ee84-5abc-4a82-9e54-aa3572b2a417,user_00285,2026-07-25T08:30:18+00:00,Create Resume from Scratch,Yearly,499.0,success,499.0,True
+cff113f5-0b9c-4568-aebe-200a5cbdd66e,2ef28feb-59a7-48bd-bf35-eb7b0058d21b,user_01382,2026-07-26T20:09:55+00:00,Create Resume from Scratch,Weekly,99.0,success,99.0,True
+4d6605ff-e86f-4658-a364-395778f07337,a7577f63-f212-429a-9334-7ff0b77f192c,user_01020,2026-07-28T14:11:54+00:00,Create Resume from Scratch,Weekly,99.0,success,99.0,True
+4715d1e9-019e-4655-a298-e383184049c9,a86af32b-17da-485b-a4dd-7ea31d4a1864,user_01458,2026-07-29T07:21:43+00:00,Create Resume from Scratch,Weekly,99.0,success,99.0,True
+59587b41-7355-4049-a638-040a21de2893,5f820768-6d74-43e4-bc19-0d0dca2768d0,user_00147,2026-07-29T21:36:15+00:00,Create Resume from Scratch,Yearly,499.0,success,499.0,True
+0b2d2503-3c4a-4cf4-bdb3-c680db298918,8e6f679d-73e9-4a09-ae51-b1a92cadbb99,user_00784,2026-07-30T10:06:03+00:00,Improve Existing Resume,Yearly,499.0,success,499.0,True
+cc81defe-4628-4320-b288-8a00f41b34b6,dc545aef-79e7-40c8-80fe-40501d515b11,user_00026,2026-07-31T16:26:28+00:00,Create Resume from Scratch,Yearly,499.0,success,499.0,True
+2c08b9c1-dfe3-4834-878c-f1959d1dc2ef,9660232f-05c4-45b8-a25f-6f749a2154d2,user_00868,2026-08-04T03:52:29+00:00,Improve Existing Resume,Yearly,499.0,success,499.0,True
+ba646404-0a7a-4082-bd7e-43ecb6e906e4,aa741f16-d36c-4e83-abec-4faed619f64d,user_00218,2026-08-04T06:52:25+00:00,Create Resume from Scratch,Weekly,99.0,success,99.0,True
+958cb442-b540-409f-ad8f-becb816dda1d,d4c32456-92a6-4865-9202-3ba3dff236b7,user_00776,2026-08-05T00:41:14+00:00,Create Resume from Scratch,Weekly,99.0,success,99.0,True
+b6103cfd-cb3a-47ac-aa94-7145638d5a07,0057aea3-12fa-4740-a3e3-c1f748d5fcaf,user_00867,2026-08-05T07:45:21+00:00,AI Resume Generation,Yearly,499.0,success,499.0,True
+10cf369d-e833-432f-952a-21630786a2d5,f8498520-038f-4c15-b695-1806554fdf3f,user_00761,2026-08-06T01:28:18+00:00,AI Resume Generation,Weekly,99.0,success,99.0,True
+8249f223-f1ca-44f9-a75a-8973e54be451,e9864b43-7442-4b8d-bd11-03a4729623ec,user_00964,2026-08-06T16:03:13+00:00,Create Resume from Scratch,Yearly,499.0,success,499.0,True
+acebe734-52f5-4dbf-9260-7c6868d7fcf5,cbd40866-fac6-41c1-a3b2-07c7a74d09d7,user_00035,2026-08-08T06:18:24+00:00,Create Resume from Scratch,Lifetime,799.0,success,799.0,True
+1d8db6d3-1343-4452-afd6-93c778fd6dea,9c1126b3-b472-428f-bddb-770a0bb760c8,user_00863,2026-08-08T11:44:30+00:00,Create Resume from Scratch,Lifetime,799.0,success,799.0,True
+437be568-a915-428f-b65d-16ee955f228e,ea0c39dd-5bcf-4b34-a19b-527b70123d46,user_01402,2026-08-08T16:16:55+00:00,Improve Existing Resume,Weekly,99.0,success,99.0,True
+e05e328a-3de9-46fc-9d24-561d9f47153b,a6f2b62b-f36d-4db9-ae79-2dfbb98575fa,user_00861,2026-08-10T10:32:08+00:00,Create Resume from Scratch,Yearly,499.0,success,499.0,True
+117bbd4f-ce5e-4498-acea-0a2d577b96a0,758da540-7245-4b45-be48-143008f87126,user_00238,2026-08-11T13:12:34+00:00,Improve Existing Resume,Yearly,499.0,success,499.0,True
+d7dfd904-7eca-42b1-9633-04eb47e56aec,82211ac2-98c0-422e-9b1a-f99a71eb6be4,user_00367,2026-08-16T06:27:55+00:00,Create Resume from Scratch,Lifetime,799.0,failed,0,True
+011e1adf-6a99-4a74-9206-a2d5758702c8,f27bad63-dcad-4d47-bd59-c8c1732c973f,user_01311,2026-08-18T22:15:48+00:00,AI Resume Generation,Yearly,499.0,success,499.0,True
+202e0bef-e64d-4ff4-8df6-7de4a09cb8d4,2cd4e007-4a90-44f7-91bb-4520025805d8,user_00049,2026-08-23T04:36:18+00:00,Create Resume from Scratch,Weekly,99.0,success,99.0,True
+e11f4c1b-3ff3-41a7-9b5e-82969ca131bc,5c3905cb-b6fd-435b-b968-d8d7dd6bb954,user_01197,2026-08-24T23:54:55+00:00,Improve Existing Resume,Lifetime,799.0,success,799.0,True
+9af4e627-4d06-4cac-bbfc-ac1077ad75d3,0e5002f1-c780-4e1b-8423-1d2b3d991e9c,user_01208,2026-08-25T00:46:19+00:00,AI Resume Generation,Weekly,99.0,success,99.0,True
+6ae319fc-6fad-463c-bd3f-404ebcc4934c,5a13ac24-904e-4313-8664-8fc802906f70,user_00716,2026-08-25T01:13:56+00:00,AI Resume Generation,Yearly,499.0,success,499.0,True
+e5fe3673-dec0-4825-b3bb-e375c54ea536,4a711dc5-778d-485b-b853-04ae6fc0f7a7,user_01162,2026-08-25T01:40:19+00:00,AI Resume Generation,Yearly,499.0,success,499.0,True
+5942bb29-c768-46ae-b625-c2fc79b5e386,973d23c2-257f-44a9-adec-f31c96272542,user_00473,2026-08-26T02:36:20+00:00,Create Resume from Scratch,Yearly,499.0,success,499.0,True
+d648a6b8-003e-41af-aa34-7f8cd4cfb7fb,60dba72f-4d9d-4fb4-8db5-9167bc4675f9,user_01250,2026-08-28T00:56:06+00:00,Create Resume from Scratch,Lifetime,799.0,success,799.0,True
+edbca071-d1e4-4f80-9439-9bc31df7284e,b62c87b2-724b-4d3f-84a6-0029a6d45dae,user_01412,2026-08-28T10:14:46+00:00,Create Resume from Scratch,Lifetime,799.0,success,799.0,True
+99242161-340e-48ec-90a8-752f5fe2b6d4,4ae700dd-9bc4-477f-b942-7d4d82e38599,user_00860,2026-08-28T15:54:54+00:00,Create Resume from Scratch,Weekly,99.0,success,99.0,True
+1f027ad4-1833-4f66-a47e-8554a6f423bf,2b35c845-96d7-4a3b-b62d-e0da8c4196f8,user_01051,2026-08-28T22:07:32+00:00,Create Resume from Scratch,Weekly,99.0,success,99.0,True
+7f1229da-6942-4a6b-8a09-5bfa5356a88b,c6df0562-b07b-4659-b89f-74dcd8e6f731,user_00282,2026-08-28T23:57:29+00:00,Create Resume from Scratch,Lifetime,799.0,success,799.0,True
+cc60db9d-b98d-456f-b8d1-069581636945,2e6c8360-eebe-4bb1-b81a-a5ece172057f,user_00088,2026-08-30T15:10:29+00:00,Create Resume from Scratch,Weekly,99.0,failed,0,True
+d1ab3ad8-90da-44f3-8c82-fd4e59b2cf2b,cc70e2e8-982a-403e-9d19-c4240d5bf60b,user_01475,2026-08-30T19:10:18+00:00,Create Resume from Scratch,Weekly,99.0,success,99.0,True
+7cd02d10-08fd-490b-a489-4b487f1f3d05,a6a4bee0-a7a1-4e16-a6ea-032db4bcebf5,user_00332,2026-08-30T20:18:42+00:00,Create Resume from Scratch,Weekly,99.0,success,99.0,True
+6288b29b-da67-47f3-b6bc-5480f45bd8b0,4d9b9bfe-cae7-4734-ae2b-172d94210dd0,user_00354,2026-09-01T06:06:25+00:00,AI Resume Generation,Yearly,499.0,success,499.0,True
+579dc05e-5b35-45a7-b1a1-ffa7c4282bdb,71f2bb06-ab6a-489d-83a5-e143df2de249,user_00164,2026-09-01T19:55:15+00:00,Create Resume from Scratch,Yearly,499.0,success,499.0,True
+77e9d6bd-e991-46c0-8d40-d5768872e7fe,1ec1632c-9d0c-4787-a9a2-c10772f41427,user_00608,2026-09-02T05:55:20+00:00,Create Resume from Scratch,Weekly,99.0,success,99.0,True
+381d8503-8da1-4c24-9d62-f58f79ca281d,c03cec39-f6d1-43ef-b3b7-647d42caa3ac,user_00105,2026-09-02T07:25:46+00:00,Create Resume from Scratch,Lifetime,799.0,success,799.0,True
+97c233da-b665-498d-b11c-3b010963604e,ae1c2440-d4b8-4fca-b101-467ae4031d7b,user_01267,2026-09-03T16:18:37+00:00,AI Resume Generation,Weekly,99.0,success,99.0,True
+1dce3041-bac9-4c0e-b6f8-d31861eb3437,b1db57ac-bb61-4617-9437-3c4ac97cf01d,user_01015,2026-09-04T12:57:39+00:00,Create Resume from Scratch,Yearly,499.0,success,499.0,True
+9dbcb6de-71ce-4291-af0f-e95ef015174f,c4bb07bb-e559-4253-9bfd-e37cfabe7cfb,user_00861,2026-09-04T16:29:08+00:00,AI Resume Generation,Yearly,499.0,success,499.0,True
+82591700-58ec-4bac-84ce-c6a5d318ad41,24aa6227-d5da-48f3-9e04-965ca51af0c3,user_01398,2026-09-04T18:32:54+00:00,AI Resume Generation,Yearly,499.0,success,499.0,True
+4da0376c-d82b-429a-bc2a-8296a4f5e6ff,2eb50a75-e319-4a04-8594-c4d996387a75,user_00464,2026-09-06T04:21:09+00:00,Create Resume from Scratch,Lifetime,799.0,success,799.0,True
+d9a0755a-e003-4fea-8bec-902828737000,fcb3aee8-c129-4828-8969-7b2b56f19cf1,user_00354,2026-09-08T00:09:25+00:00,Create Resume from Scratch,Yearly,499.0,success,499.0,True
+897fa9da-320a-4edc-bd12-e0f868294fac,5625c292-902c-4c24-adb0-89b1e335fe7d,user_01367,2026-09-08T03:48:28+00:00,AI Resume Generation,Yearly,499.0,success,499.0,True
+5aef40cd-be86-46cd-9b52-9217adfe661d,f3ad7415-6762-4663-8be3-b5f58221897e,user_00633,2026-09-09T08:45:36+00:00,Improve Existing Resume,Weekly,99.0,success,99.0,True
+2c98ab80-35f6-4b20-837d-872d5d3b4d49,b1b3fbe9-b2c9-4812-9ff3-495a99de677f,user_01301,2026-09-10T05:51:46+00:00,AI Resume Generation,Weekly,99.0,success,99.0,True
+d6eff87e-16a0-4721-9892-d950a7c04145,59c5ec5e-297e-41b3-85f3-483e2b992b05,user_00946,2026-09-12T09:58:41+00:00,Improve Existing Resume,Weekly,99.0,success,99.0,True
+4869432c-b53c-4409-9a12-50ea1993357f,93b8d026-87e3-4005-a115-c4dc99565a94,user_00698,2026-09-12T14:08:19+00:00,Create Resume from Scratch,Weekly,99.0,success,99.0,True
+7b12b1f1-17bb-4740-9c87-6ecb85cd90d3,2a74dac0-4817-4bbc-8ef0-d9e96a70623a,user_00629,2026-09-12T15:23:51+00:00,Create Resume from Scratch,Weekly,99.0,success,99.0,True
+56b49b22-2f4b-4a13-8f9c-cd7fbe4acd11,34edcf9e-7cc9-4117-acdc-90918333ae9b,user_00767,2026-09-14T08:30:29+00:00,Improve Existing Resume,Weekly,99.0,success,99.0,True
+441e6203-17b2-4014-9f3f-2d5307ef665d,b37bf0ef-231c-4961-a657-9b054164bb59,user_01073,2026-09-16T16:19:00+00:00,Create Resume from Scratch,Weekly,99.0,success,99.0,True
+ddb54e65-2439-4062-a5f7-8ec083f1f7f6,ef032df6-330d-4f7e-a95d-bb1e51c1aacd,user_00541,2026-09-16T17:01:32+00:00,AI Resume Generation,Yearly,499.0,success,499.0,True
+2ef68a69-2d2c-4a35-8173-54e4f7d0ec4a,b1a45258-592d-4487-a70a-9893ac5f3b20,user_00649,2026-09-16T17:31:58+00:00,Create Resume from Scratch,Lifetime,799.0,success,799.0,True
+1391e671-44a8-44d3-b075-1b2601796045,29757263-056d-4dd3-bc8c-bb7c5dff6602,user_01257,2026-09-17T06:07:48+00:00,Create Resume from Scratch,Yearly,499.0,success,499.0,True
+fd043639-e27a-4226-8dab-ecf908bc069c,9ce9634d-f93c-416c-8806-c6084e378c7d,user_01427,2026-09-18T08:05:44+00:00,Improve Existing Resume,Lifetime,799.0,success,799.0,True
+67855239-c9be-4430-a6fa-8151f678ab2b,4566d285-0c69-402d-bac3-ead2683bc9e2,user_01000,2026-09-18T14:38:40+00:00,Create Resume from Scratch,Lifetime,799.0,failed,0,True
+b6bfe28f-b15b-401d-bca8-88dd7460a4a1,5d05e679-b813-4483-85ee-adeb6862dc89,user_00078,2026-09-21T03:46:13+00:00,AI Resume Generation,Lifetime,799.0,success,799.0,True
+ed0f7aa6-250d-4dbf-8b78-a721b52c2857,aefdec43-75a8-4af6-a9a0-158266d7a3df,user_00283,2026-09-21T05:47:57+00:00,Create Resume from Scratch,Yearly,499.0,success,499.0,True
+2082491d-8588-4425-bcb9-9aeb94b9720b,9ab0ae9e-ec28-4cb8-bbe5-68038af301cc,user_01111,2026-09-21T09:03:26+00:00,Create Resume from Scratch,Weekly,99.0,failed,0,True
+d9ae661a-dc74-4104-a99f-6e40a6df168d,83bc2494-22b4-40ab-bc65-63f5d2fd3564,user_00502,2026-09-22T00:56:39+00:00,Improve Existing Resume,Weekly,99.0,success,99.0,True
+5f279c98-f1b2-4a72-9e72-f9f977d2db1e,8431edfa-7478-47c9-8768-32d0c1869c6f,user_01310,2026-09-22T05:16:30+00:00,Create Resume from Scratch,Yearly,499.0,success,499.0,True
+9656ad3a-30db-4a2a-8c2d-d8c75db91293,ba5605e0-08b1-446f-8e58-7ec487f81864,user_00287,2026-09-25T14:52:50+00:00,Create Resume from Scratch,Lifetime,799.0,failed,0,True
+9327beb4-314b-4f76-9832-d4c6ae198868,518f46f3-493b-4437-99b0-bbb1b79bc6ca,user_00860,2026-09-25T16:55:54+00:00,Improve Existing Resume,Weekly,99.0,success,99.0,True
+0498142b-08b5-45a9-91de-4a19b2f9039f,f7779cf3-6580-42a4-acfe-24364b8adc16,user_01084,2026-09-25T17:17:23+00:00,Improve Existing Resume,Yearly,499.0,success,499.0,True
+0e87ebf6-8d01-4452-856b-27fab78e43f6,23fb8f0f-1aed-47e0-9d39-1f81a8d24ec3,user_01306,2026-09-27T07:15:17+00:00,AI Resume Generation,Weekly,99.0,success,99.0,True
+f7da8960-11d4-41bd-934f-5c7e4f594185,0ae33053-aeed-4bd8-8010-ba827ee9945a,user_01374,2026-09-27T09:59:10+00:00,Create Resume from Scratch,Lifetime,799.0,failed,0,True
+fec1de01-ea52-4cd9-95a8-d76aa333ed38,437a51b1-19c0-4e17-b58f-01a70d725aee,user_00449,2026-09-27T09:59:21+00:00,AI Resume Generation,Weekly,99.0,success,99.0,True
+c0c6c1b4-0581-41b5-8623-94f838982d1d,95aea286-2e25-4669-83c3-784d1fb95ffb,user_01126,2026-09-27T11:34:12+00:00,Create Resume from Scratch,Weekly,99.0,success,99.0,True
+72f5c9f3-d891-4918-b1a5-7f207de60064,2896a30c-cecb-41dd-ae2e-86ba9ef278a0,user_01220,2026-09-28T01:12:31+00:00,Create Resume from Scratch,Lifetime,799.0,success,799.0,True
+00b7465d-6014-48ce-9250-86c56f66885b,07feef03-63cf-4c07-9e3d-64e13131e002,user_00353,2026-09-29T21:31:26+00:00,Improve Existing Resume,Yearly,499.0,failed,0,True
+fc0a23de-67f2-4845-b904-9d62e1c6b19f,8465f2b5-7d57-4cf4-92f6-ea49bd1a5931,user_00421,2026-09-30T03:38:53+00:00,Create Resume from Scratch,Weekly,99.0,failed,0,True
+e28e70b5-3020-47d9-9610-08d5d3a24c4d,ca1ee818-9091-4636-b1ab-27a346bdbd33,user_00010,2026-09-30T04:56:35+00:00,AI Resume Generation,Weekly,99.0,success,99.0,True
+b64cd666-5dba-4dea-ae36-7092ceb470f7,9e9a9ca4-6b1a-495d-b931-4b7151f6b7a9,user_01215,2026-10-02T13:48:38+00:00,AI Resume Generation,Weekly,99.0,success,99.0,True
+1962c870-7fff-48d0-a462-7712d09647a3,e6b41f7e-1f49-4ce7-b463-112dac8ac206,user_00795,2026-10-02T14:00:23+00:00,Create Resume from Scratch,Yearly,499.0,success,499.0,True
+697b8fa4-3433-4e79-9444-226025a079ae,76340217-5d85-4c9e-88fb-d8e16134cfa4,user_00355,2026-10-03T20:19:36+00:00,Improve Existing Resume,Yearly,499.0,failed,0,True
+25304bb5-cb6e-4fb0-9949-bbb57c5e77e3,73bdad80-f996-495b-95f0-f31d8efd1843,user_01272,2026-10-04T07:54:21+00:00,Create Resume from Scratch,Lifetime,799.0,success,799.0,True
+ceff5a70-fdc0-4130-ae5a-a6b997f02641,4c5e7f7b-edc2-4f6b-b0b9-a8b84c4a1ed9,user_00233,2026-10-04T08:20:24+00:00,Improve Existing Resume,Weekly,99.0,success,99.0,True
+726caf16-1d30-424e-b928-c9b3ae7e064f,f64d17ff-e20a-4e0f-a198-49b7109230d9,user_00631,2026-10-07T16:18:20+00:00,Improve Existing Resume,Yearly,499.0,success,499.0,True
+e235fda5-0c21-4424-84d2-a5d0bc5de0e1,43b9dd6a-44e7-44b9-ab04-096780da38be,user_01358,2026-10-08T01:42:59+00:00,Create Resume from Scratch,Weekly,99.0,failed,0,True
+dc130eba-a836-40b1-89b2-e9b3a50850c6,3667b71b-17bd-4a51-a978-581a94987edf,user_01367,2026-10-08T03:52:28+00:00,Improve Existing Resume,Weekly,99.0,success,99.0,True
+9ece8233-1f32-4102-8628-5e9cc4097e9c,8678ec4b-cb7a-4881-8183-406849409ff2,user_00020,2026-10-09T11:40:02+00:00,Create Resume from Scratch,Weekly,99.0,success,99.0,True
+423fe669-0abc-4f82-909e-dfe79454bf4f,d243d84c-d45b-46ab-a0fb-cdb3300581ca,user_01358,2026-10-10T03:43:59+00:00,Improve Existing Resume,Yearly,499.0,failed,0,True
+67878de0-a098-48e7-af78-8720a3aee924,36c4eae2-ff4d-4df9-854d-d18f4208c1d0,user_00066,2026-10-11T16:19:10+00:00,Create Resume from Scratch,Yearly,499.0,failed,0,True
+a37dceba-5129-4496-87dd-a5082d2c01ca,6ca9ee6d-92c1-4e58-9847-410bde45833b,user_00656,2026-10-13T03:07:31+00:00,Improve Existing Resume,Weekly,99.0,success,99.0,True
+b6e4f621-2c41-4b9b-83bf-ef557b97fa22,f8a79c8d-9f06-407d-b924-7c7b24c1a128,user_00539,2026-10-14T16:32:24+00:00,Create Resume from Scratch,Lifetime,799.0,success,799.0,True
+a20e05a6-dbe9-4fb1-904b-91f96c43c975,4df55397-09f8-48ec-870a-7b9e91ad7689,user_00158,2026-10-16T23:40:51+00:00,Create Resume from Scratch,Weekly,99.0,failed,0,True
+6e7ba7e7-18e4-4a2b-9ada-480eade4b215,03ab676c-274a-4140-bc6b-ab6b2582fffe,user_00148,2026-10-17T10:30:53+00:00,AI Resume Generation,Lifetime,799.0,success,799.0,True
+637af3d8-5cf4-4ec7-8651-63169edf053e,5f749f89-71e1-46c5-84d5-53f7714123c1,user_00552,2026-10-17T22:12:45+00:00,Improve Existing Resume,Yearly,499.0,success,499.0,True
+8d2f3559-0b8b-49b8-ac1c-007babeaa0f3,cce9964f-8fd3-4fa2-b4b2-8984b732e96c,user_01154,2026-10-19T21:57:27+00:00,Create Resume from Scratch,Weekly,99.0,success,99.0,True
+bceda3c4-2f97-49bd-b283-f86c8d7dccf4,64dab858-8c91-4754-bc44-de398ce0e411,user_00505,2026-10-20T11:20:04+00:00,Create Resume from Scratch,Weekly,99.0,success,99.0,True
+188d19aa-6139-424d-b436-1b9b379ff587,ab1d7f1f-88c8-4cc9-b331-17c6df944fed,user_01127,2026-10-21T15:02:34+00:00,Improve Existing Resume,Lifetime,799.0,success,799.0,True
+a02569ad-e513-409b-8b90-8c0af0cd1461,01366f22-df06-4405-96a5-09599a9e4608,user_00334,2026-10-22T03:40:11+00:00,AI Resume Generation,Yearly,499.0,success,499.0,True
+9588aa6c-8514-4c3c-8195-b909a38450b8,bbbe1ba5-fbc8-40ee-a18b-b1710a8d10be,user_00234,2026-10-22T22:21:57+00:00,Create Resume from Scratch,Yearly,499.0,success,499.0,True
+9cc2315a-639d-43c9-82a5-dea388378426,c6b775a3-ef03-412b-a10b-b3a4512d619f,user_00939,2026-10-23T01:51:55+00:00,Improve Existing Resume,Lifetime,799.0,failed,0,True
+73e92de4-1cce-4949-bffe-7361ae278375,39fd8fb7-520c-4b13-be9e-38a98966d13e,user_01442,2026-10-24T10:14:32+00:00,AI Resume Generation,Weekly,99.0,success,99.0,True
+146cce7d-67f1-420f-b218-71cbbb078dea,8acdecea-9d04-4c75-b89b-80f1527859ef,user_01033,2026-10-25T17:49:38+00:00,Create Resume from Scratch,Yearly,499.0,failed,0,True
+e1d56753-27f7-470b-9a97-3af99310f403,170ffec8-2690-4d85-b969-a01d87e382b6,user_01177,2026-10-26T00:12:52+00:00,Create Resume from Scratch,Yearly,499.0,failed,0,True
+8d8d89ae-b840-4e33-8172-ace644f85674,c14ea296-09ee-4bd3-9efe-c2e666491bb1,user_00689,2026-10-26T07:32:45+00:00,Create Resume from Scratch,Weekly,99.0,success,99.0,True

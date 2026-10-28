@@ -1,0 +1,1501 @@
+user_id,first_open_at,acquisition_source,platform,is_synthetic
+user_00001,2026-09-03T03:55:41+00:00,Organic Search,Android,True
+user_00002,2026-09-22T23:51:32+00:00,Organic Search,Android,True
+user_00003,2026-06-14T08:13:14+00:00,Organic Search,Android,True
+user_00004,2026-05-21T21:38:43+00:00,Social Media,Android,True
+user_00005,2026-10-22T05:50:29+00:00,Play Store,Android,True
+user_00006,2026-08-24T15:52:40+00:00,Play Store,Android,True
+user_00007,2026-05-07T18:50:54+00:00,Organic Search,Android,True
+user_00008,2026-06-16T04:15:42+00:00,Play Store,Android,True
+user_00009,2026-05-07T03:38:59+00:00,Social Media,Android,True
+user_00010,2026-09-18T00:52:35+00:00,Social Media,Android,True
+user_00011,2026-08-15T19:35:40+00:00,Play Store,Android,True
+user_00012,2026-07-28T05:26:57+00:00,Social Media,Android,True
+user_00013,2026-10-06T04:12:09+00:00,Referral,Android,True
+user_00014,2026-09-26T08:16:55+00:00,Referral,Android,True
+user_00015,2026-09-14T13:32:55+00:00,Play Store,Android,True
+user_00016,2026-06-24T22:57:27+00:00,Organic Search,Android,True
+user_00017,2026-09-27T06:07:25+00:00,Play Store,Android,True
+user_00018,2026-05-20T00:12:37+00:00,Play Store,Android,True
+user_00019,2026-07-10T16:56:54+00:00,Referral,Android,True
+user_00020,2026-08-27T05:33:02+00:00,Organic Search,Android,True
+user_00021,2026-05-10T10:28:37+00:00,Social Media,Android,True
+user_00022,2026-08-14T02:59:14+00:00,Organic Search,Android,True
+user_00023,2026-07-14T12:04:53+00:00,Organic Search,Android,True
+user_00024,2026-06-27T22:17:35+00:00,Referral,Android,True
+user_00025,2026-08-30T02:29:39+00:00,Paid Ads,Android,True
+user_00026,2026-07-11T05:19:28+00:00,Social Media,Android,True
+user_00027,2026-09-15T19:31:33+00:00,Organic Search,Android,True
+user_00028,2026-09-07T09:41:37+00:00,Organic Search,Android,True
+user_00029,2026-06-27T04:37:44+00:00,Paid Ads,Android,True
+user_00030,2026-10-15T02:03:10+00:00,Organic Search,Android,True
+user_00031,2026-05-21T14:41:02+00:00,Play Store,Android,True
+user_00032,2026-07-29T01:01:42+00:00,Social Media,Android,True
+user_00033,2026-07-11T20:13:28+00:00,Organic Search,Android,True
+user_00034,2026-07-09T23:39:53+00:00,Organic Search,Android,True
+user_00035,2026-06-22T20:11:24+00:00,Social Media,Android,True
+user_00036,2026-09-11T17:32:46+00:00,Social Media,Android,True
+user_00037,2026-08-28T06:44:22+00:00,Social Media,Android,True
+user_00038,2026-08-13T17:15:20+00:00,Social Media,Android,True
+user_00039,2026-06-02T17:29:38+00:00,Play Store,Android,True
+user_00040,2026-06-23T10:01:52+00:00,Paid Ads,Android,True
+user_00041,2026-09-03T06:35:54+00:00,Social Media,Android,True
+user_00042,2026-06-13T15:27:51+00:00,Social Media,Android,True
+user_00043,2026-10-12T15:57:28+00:00,Referral,Android,True
+user_00044,2026-05-12T20:40:23+00:00,Organic Search,Android,True
+user_00045,2026-05-08T05:34:52+00:00,Referral,Android,True
+user_00046,2026-07-18T21:32:48+00:00,Organic Search,Android,True
+user_00047,2026-06-11T23:14:04+00:00,Paid Ads,Android,True
+user_00048,2026-08-20T03:14:02+00:00,Referral,Android,True
+user_00049,2026-07-02T02:29:18+00:00,Organic Search,Android,True
+user_00050,2026-08-06T22:34:10+00:00,Play Store,Android,True
+user_00051,2026-10-26T14:05:02+00:00,Social Media,Android,True
+user_00052,2026-05-29T17:48:47+00:00,Organic Search,Android,True
+user_00053,2026-06-18T21:21:02+00:00,Referral,Android,True
+user_00054,2026-08-14T15:47:58+00:00,Organic Search,Android,True
+user_00055,2026-08-23T12:21:05+00:00,Play Store,Android,True
+user_00056,2026-08-23T07:26:37+00:00,Play Store,Android,True
+user_00057,2026-06-13T14:05:31+00:00,Paid Ads,Android,True
+user_00058,2026-05-28T20:39:21+00:00,Play Store,Android,True
+user_00059,2026-05-19T15:39:06+00:00,Referral,Android,True
+user_00060,2026-10-16T05:00:49+00:00,Organic Search,Android,True
+user_00061,2026-08-31T20:05:37+00:00,Organic Search,Android,True
+user_00062,2026-09-11T03:15:20+00:00,Play Store,Android,True
+user_00063,2026-05-14T08:02:38+00:00,Play Store,Android,True
+user_00064,2026-08-25T17:01:28+00:00,Paid Ads,Android,True
+user_00065,2026-08-12T17:50:05+00:00,Organic Search,Android,True
+user_00066,2026-08-17T10:12:10+00:00,Referral,Android,True
+user_00067,2026-05-04T05:29:19+00:00,Social Media,Android,True
+user_00068,2026-05-24T05:49:59+00:00,Social Media,Android,True
+user_00069,2026-08-14T06:26:47+00:00,Referral,Android,True
+user_00070,2026-09-28T05:54:46+00:00,Social Media,Android,True
+user_00071,2026-05-23T15:51:14+00:00,Organic Search,Android,True
+user_00072,2026-06-01T17:03:06+00:00,Play Store,Android,True
+user_00073,2026-09-19T05:10:34+00:00,Referral,Android,True
+user_00074,2026-06-22T03:27:54+00:00,Paid Ads,Android,True
+user_00075,2026-09-26T22:59:04+00:00,Organic Search,Android,True
+user_00076,2026-10-26T05:08:14+00:00,Organic Search,Android,True
+user_00077,2026-08-31T10:05:36+00:00,Organic Search,Android,True
+user_00078,2026-09-03T01:42:13+00:00,Play Store,Android,True
+user_00079,2026-06-09T14:58:34+00:00,Organic Search,Android,True
+user_00080,2026-09-27T01:32:28+00:00,Organic Search,Android,True
+user_00081,2026-09-30T04:38:44+00:00,Paid Ads,Android,True
+user_00082,2026-10-27T08:28:23+00:00,Organic Search,Android,True
+user_00083,2026-07-03T22:39:36+00:00,Play Store,Android,True
+user_00084,2026-05-23T17:19:28+00:00,Paid Ads,Android,True
+user_00085,2026-10-19T15:07:26+00:00,Paid Ads,Android,True
+user_00086,2026-10-05T15:49:35+00:00,Play Store,Android,True
+user_00087,2026-05-13T05:56:03+00:00,Organic Search,Android,True
+user_00088,2026-08-20T04:03:29+00:00,Paid Ads,Android,True
+user_00089,2026-05-18T15:09:26+00:00,Referral,Android,True
+user_00090,2026-10-07T10:55:38+00:00,Organic Search,Android,True
+user_00091,2026-09-26T16:38:46+00:00,Play Store,Android,True
+user_00092,2026-05-26T10:04:11+00:00,Organic Search,Android,True
+user_00093,2026-08-02T06:57:35+00:00,Paid Ads,Android,True
+user_00094,2026-06-03T01:31:50+00:00,Organic Search,Android,True
+user_00095,2026-10-18T09:48:57+00:00,Social Media,Android,True
+user_00096,2026-06-12T03:02:04+00:00,Paid Ads,Android,True
+user_00097,2026-09-25T15:46:27+00:00,Social Media,Android,True
+user_00098,2026-06-10T01:24:54+00:00,Social Media,Android,True
+user_00099,2026-07-18T11:25:19+00:00,Paid Ads,Android,True
+user_00100,2026-09-05T04:38:04+00:00,Play Store,Android,True
+user_00101,2026-10-23T16:29:19+00:00,Play Store,Android,True
+user_00102,2026-05-25T11:54:13+00:00,Organic Search,Android,True
+user_00103,2026-05-14T10:21:56+00:00,Play Store,Android,True
+user_00104,2026-08-24T05:42:02+00:00,Social Media,Android,True
+user_00105,2026-08-24T06:18:46+00:00,Organic Search,Android,True
+user_00106,2026-05-15T18:50:06+00:00,Social Media,Android,True
+user_00107,2026-05-13T10:21:17+00:00,Organic Search,Android,True
+user_00108,2026-10-24T19:32:47+00:00,Organic Search,Android,True
+user_00109,2026-07-05T03:53:30+00:00,Organic Search,Android,True
+user_00110,2026-06-17T05:09:55+00:00,Organic Search,Android,True
+user_00111,2026-08-04T06:10:43+00:00,Organic Search,Android,True
+user_00112,2026-05-27T16:36:04+00:00,Social Media,Android,True
+user_00113,2026-10-20T08:11:11+00:00,Social Media,Android,True
+user_00114,2026-08-01T18:47:23+00:00,Organic Search,Android,True
+user_00115,2026-08-01T20:11:49+00:00,Referral,Android,True
+user_00116,2026-06-07T23:21:28+00:00,Organic Search,Android,True
+user_00117,2026-09-06T23:03:55+00:00,Play Store,Android,True
+user_00118,2026-07-23T06:00:10+00:00,Play Store,Android,True
+user_00119,2026-10-16T17:45:15+00:00,Social Media,Android,True
+user_00120,2026-09-09T18:05:22+00:00,Social Media,Android,True
+user_00121,2026-09-04T11:23:57+00:00,Organic Search,Android,True
+user_00122,2026-07-19T04:20:04+00:00,Social Media,Android,True
+user_00123,2026-10-04T11:00:53+00:00,Referral,Android,True
+user_00124,2026-06-19T06:48:21+00:00,Organic Search,Android,True
+user_00125,2026-08-14T03:15:21+00:00,Play Store,Android,True
+user_00126,2026-07-22T22:05:39+00:00,Organic Search,Android,True
+user_00127,2026-07-30T19:59:11+00:00,Organic Search,Android,True
+user_00128,2026-05-16T15:18:08+00:00,Play Store,Android,True
+user_00129,2026-10-16T06:09:39+00:00,Referral,Android,True
+user_00130,2026-05-21T00:16:15+00:00,Organic Search,Android,True
+user_00131,2026-08-14T23:18:20+00:00,Referral,Android,True
+user_00132,2026-05-20T02:37:09+00:00,Paid Ads,Android,True
+user_00133,2026-10-13T19:11:31+00:00,Organic Search,Android,True
+user_00134,2026-07-19T22:00:36+00:00,Play Store,Android,True
+user_00135,2026-06-12T12:07:04+00:00,Referral,Android,True
+user_00136,2026-10-24T05:40:18+00:00,Organic Search,Android,True
+user_00137,2026-07-14T14:07:33+00:00,Organic Search,Android,True
+user_00138,2026-07-16T19:28:50+00:00,Organic Search,Android,True
+user_00139,2026-10-01T06:01:01+00:00,Referral,Android,True
+user_00140,2026-06-26T09:20:27+00:00,Play Store,Android,True
+user_00141,2026-09-20T20:23:05+00:00,Paid Ads,Android,True
+user_00142,2026-08-17T22:03:05+00:00,Social Media,Android,True
+user_00143,2026-08-04T12:02:11+00:00,Organic Search,Android,True
+user_00144,2026-06-28T14:44:31+00:00,Organic Search,Android,True
+user_00145,2026-05-13T08:32:06+00:00,Social Media,Android,True
+user_00146,2026-08-15T06:47:46+00:00,Organic Search,Android,True
+user_00147,2026-07-01T21:29:15+00:00,Organic Search,Android,True
+user_00148,2026-08-23T10:26:53+00:00,Play Store,Android,True
+user_00149,2026-10-27T12:38:16+00:00,Referral,Android,True
+user_00150,2026-06-01T13:40:22+00:00,Organic Search,Android,True
+user_00151,2026-08-08T14:38:08+00:00,Organic Search,Android,True
+user_00152,2026-06-07T01:59:25+00:00,Organic Search,Android,True
+user_00153,2026-05-15T04:42:14+00:00,Social Media,Android,True
+user_00154,2026-06-16T16:06:46+00:00,Play Store,Android,True
+user_00155,2026-10-21T21:01:22+00:00,Social Media,Android,True
+user_00156,2026-08-22T09:56:30+00:00,Social Media,Android,True
+user_00157,2026-08-30T06:30:37+00:00,Organic Search,Android,True
+user_00158,2026-09-06T15:33:51+00:00,Social Media,Android,True
+user_00159,2026-08-11T12:19:38+00:00,Play Store,Android,True
+user_00160,2026-06-21T15:14:22+00:00,Organic Search,Android,True
+user_00161,2026-09-18T01:40:44+00:00,Play Store,Android,True
+user_00162,2026-06-22T13:50:12+00:00,Play Store,Android,True
+user_00163,2026-09-09T10:17:11+00:00,Social Media,Android,True
+user_00164,2026-07-29T18:48:15+00:00,Play Store,Android,True
+user_00165,2026-09-24T23:55:32+00:00,Paid Ads,Android,True
+user_00166,2026-05-03T19:23:47+00:00,Play Store,Android,True
+user_00167,2026-08-19T07:43:25+00:00,Paid Ads,Android,True
+user_00168,2026-05-16T05:24:10+00:00,Play Store,Android,True
+user_00169,2026-08-08T05:34:36+00:00,Organic Search,Android,True
+user_00170,2026-07-08T18:28:56+00:00,Paid Ads,Android,True
+user_00171,2026-10-19T17:40:46+00:00,Organic Search,Android,True
+user_00172,2026-06-26T08:07:15+00:00,Organic Search,Android,True
+user_00173,2026-10-10T21:30:59+00:00,Play Store,Android,True
+user_00174,2026-06-29T17:48:55+00:00,Social Media,Android,True
+user_00175,2026-10-05T17:20:30+00:00,Social Media,Android,True
+user_00176,2026-05-03T12:26:29+00:00,Social Media,Android,True
+user_00177,2026-08-17T16:37:02+00:00,Organic Search,Android,True
+user_00178,2026-09-07T19:35:55+00:00,Organic Search,Android,True
+user_00179,2026-10-19T12:21:05+00:00,Organic Search,Android,True
+user_00180,2026-05-24T09:55:11+00:00,Paid Ads,Android,True
+user_00181,2026-09-23T03:53:45+00:00,Social Media,Android,True
+user_00182,2026-06-23T21:13:04+00:00,Organic Search,Android,True
+user_00183,2026-06-11T21:35:19+00:00,Social Media,Android,True
+user_00184,2026-06-10T12:48:56+00:00,Social Media,Android,True
+user_00185,2026-10-14T14:50:42+00:00,Organic Search,Android,True
+user_00186,2026-08-04T20:42:24+00:00,Organic Search,Android,True
+user_00187,2026-10-25T08:18:40+00:00,Referral,Android,True
+user_00188,2026-05-19T22:07:31+00:00,Social Media,Android,True
+user_00189,2026-10-10T01:01:32+00:00,Organic Search,Android,True
+user_00190,2026-05-02T16:30:26+00:00,Play Store,Android,True
+user_00191,2026-05-27T09:38:49+00:00,Social Media,Android,True
+user_00192,2026-06-21T20:47:00+00:00,Organic Search,Android,True
+user_00193,2026-07-26T19:05:09+00:00,Social Media,Android,True
+user_00194,2026-07-24T01:08:55+00:00,Social Media,Android,True
+user_00195,2026-05-23T17:21:12+00:00,Organic Search,Android,True
+user_00196,2026-10-20T11:33:26+00:00,Social Media,Android,True
+user_00197,2026-05-30T22:37:35+00:00,Play Store,Android,True
+user_00198,2026-10-11T01:28:40+00:00,Play Store,Android,True
+user_00199,2026-08-17T06:56:12+00:00,Organic Search,Android,True
+user_00200,2026-05-26T17:55:21+00:00,Organic Search,Android,True
+user_00201,2026-07-11T19:22:57+00:00,Paid Ads,Android,True
+user_00202,2026-10-03T14:10:55+00:00,Paid Ads,Android,True
+user_00203,2026-05-09T17:54:24+00:00,Paid Ads,Android,True
+user_00204,2026-06-11T19:00:39+00:00,Social Media,Android,True
+user_00205,2026-09-08T12:07:05+00:00,Organic Search,Android,True
+user_00206,2026-09-30T11:35:18+00:00,Social Media,Android,True
+user_00207,2026-10-18T20:26:24+00:00,Play Store,Android,True
+user_00208,2026-08-30T12:28:32+00:00,Referral,Android,True
+user_00209,2026-06-16T23:15:33+00:00,Referral,Android,True
+user_00210,2026-10-04T07:43:37+00:00,Referral,Android,True
+user_00211,2026-10-20T03:40:50+00:00,Play Store,Android,True
+user_00212,2026-06-05T19:51:52+00:00,Referral,Android,True
+user_00213,2026-07-05T12:04:47+00:00,Referral,Android,True
+user_00214,2026-07-20T22:42:20+00:00,Referral,Android,True
+user_00215,2026-10-16T18:48:48+00:00,Referral,Android,True
+user_00216,2026-06-19T04:31:35+00:00,Organic Search,Android,True
+user_00217,2026-10-01T21:24:52+00:00,Social Media,Android,True
+user_00218,2026-07-15T06:45:25+00:00,Referral,Android,True
+user_00219,2026-10-15T17:19:04+00:00,Play Store,Android,True
+user_00220,2026-06-09T18:03:36+00:00,Referral,Android,True
+user_00221,2026-07-30T09:09:06+00:00,Play Store,Android,True
+user_00222,2026-10-08T07:57:36+00:00,Referral,Android,True
+user_00223,2026-06-15T04:39:18+00:00,Organic Search,Android,True
+user_00224,2026-09-07T03:57:39+00:00,Organic Search,Android,True
+user_00225,2026-07-04T17:47:41+00:00,Organic Search,Android,True
+user_00226,2026-05-15T11:30:26+00:00,Paid Ads,Android,True
+user_00227,2026-06-25T04:48:00+00:00,Play Store,Android,True
+user_00228,2026-08-08T21:59:09+00:00,Play Store,Android,True
+user_00229,2026-10-12T19:43:45+00:00,Play Store,Android,True
+user_00230,2026-05-07T08:36:40+00:00,Organic Search,Android,True
+user_00231,2026-06-21T17:20:03+00:00,Organic Search,Android,True
+user_00232,2026-06-22T13:08:46+00:00,Organic Search,Android,True
+user_00233,2026-08-25T20:12:24+00:00,Play Store,Android,True
+user_00234,2026-09-20T11:14:57+00:00,Referral,Android,True
+user_00235,2026-07-25T17:43:34+00:00,Social Media,Android,True
+user_00236,2026-08-09T07:23:15+00:00,Organic Search,Android,True
+user_00237,2026-10-23T15:58:45+00:00,Social Media,Android,True
+user_00238,2026-06-20T11:04:34+00:00,Organic Search,Android,True
+user_00239,2026-07-25T16:09:31+00:00,Organic Search,Android,True
+user_00240,2026-10-05T14:35:47+00:00,Play Store,Android,True
+user_00241,2026-09-18T16:46:12+00:00,Paid Ads,Android,True
+user_00242,2026-09-22T02:49:40+00:00,Social Media,Android,True
+user_00243,2026-07-11T17:22:42+00:00,Play Store,Android,True
+user_00244,2026-09-07T23:33:19+00:00,Paid Ads,Android,True
+user_00245,2026-08-31T00:05:52+00:00,Play Store,Android,True
+user_00246,2026-10-13T16:01:15+00:00,Organic Search,Android,True
+user_00247,2026-10-23T18:30:20+00:00,Play Store,Android,True
+user_00248,2026-07-01T01:21:15+00:00,Social Media,Android,True
+user_00249,2026-07-04T08:06:21+00:00,Play Store,Android,True
+user_00250,2026-06-28T09:50:11+00:00,Social Media,Android,True
+user_00251,2026-06-08T06:01:22+00:00,Play Store,Android,True
+user_00252,2026-07-14T14:55:42+00:00,Social Media,Android,True
+user_00253,2026-10-24T07:21:43+00:00,Organic Search,Android,True
+user_00254,2026-08-20T12:12:21+00:00,Play Store,Android,True
+user_00255,2026-08-16T09:33:20+00:00,Referral,Android,True
+user_00256,2026-06-30T00:08:35+00:00,Organic Search,Android,True
+user_00257,2026-07-24T11:24:26+00:00,Referral,Android,True
+user_00258,2026-08-27T19:13:52+00:00,Social Media,Android,True
+user_00259,2026-07-31T06:59:07+00:00,Play Store,Android,True
+user_00260,2026-09-10T04:38:04+00:00,Organic Search,Android,True
+user_00261,2026-08-01T21:11:26+00:00,Referral,Android,True
+user_00262,2026-10-03T13:43:39+00:00,Referral,Android,True
+user_00263,2026-09-06T22:27:01+00:00,Organic Search,Android,True
+user_00264,2026-08-10T02:09:49+00:00,Social Media,Android,True
+user_00265,2026-08-30T05:56:52+00:00,Play Store,Android,True
+user_00266,2026-10-07T22:06:47+00:00,Paid Ads,Android,True
+user_00267,2026-06-16T14:33:01+00:00,Social Media,Android,True
+user_00268,2026-06-14T14:53:04+00:00,Referral,Android,True
+user_00269,2026-05-30T14:42:09+00:00,Organic Search,Android,True
+user_00270,2026-06-18T13:01:56+00:00,Paid Ads,Android,True
+user_00271,2026-08-28T16:43:35+00:00,Referral,Android,True
+user_00272,2026-05-16T03:23:14+00:00,Play Store,Android,True
+user_00273,2026-10-21T01:40:50+00:00,Social Media,Android,True
+user_00274,2026-06-08T18:07:01+00:00,Social Media,Android,True
+user_00275,2026-07-15T13:27:09+00:00,Play Store,Android,True
+user_00276,2026-06-18T09:01:59+00:00,Organic Search,Android,True
+user_00277,2026-09-12T12:32:09+00:00,Organic Search,Android,True
+user_00278,2026-09-24T19:43:53+00:00,Referral,Android,True
+user_00279,2026-10-20T22:33:01+00:00,Organic Search,Android,True
+user_00280,2026-07-23T13:18:29+00:00,Organic Search,Android,True
+user_00281,2026-10-05T03:24:24+00:00,Paid Ads,Android,True
+user_00282,2026-08-10T13:50:29+00:00,Play Store,Android,True
+user_00283,2026-08-18T05:40:57+00:00,Organic Search,Android,True
+user_00284,2026-10-13T17:31:02+00:00,Organic Search,Android,True
+user_00285,2026-05-27T21:23:18+00:00,Referral,Android,True
+user_00286,2026-09-08T15:07:15+00:00,Play Store,Android,True
+user_00287,2026-08-18T12:45:50+00:00,Social Media,Android,True
+user_00288,2026-09-25T15:42:12+00:00,Paid Ads,Android,True
+user_00289,2026-08-28T23:09:00+00:00,Referral,Android,True
+user_00290,2026-10-22T05:05:57+00:00,Play Store,Android,True
+user_00291,2026-10-10T06:42:58+00:00,Paid Ads,Android,True
+user_00292,2026-07-27T14:05:28+00:00,Paid Ads,Android,True
+user_00293,2026-09-23T09:40:07+00:00,Referral,Android,True
+user_00294,2026-07-28T09:27:37+00:00,Organic Search,Android,True
+user_00295,2026-06-19T00:12:14+00:00,Referral,Android,True
+user_00296,2026-06-24T20:20:52+00:00,Referral,Android,True
+user_00297,2026-08-11T05:24:59+00:00,Play Store,Android,True
+user_00298,2026-06-17T10:56:59+00:00,Organic Search,Android,True
+user_00299,2026-05-17T01:04:54+00:00,Social Media,Android,True
+user_00300,2026-06-16T12:48:09+00:00,Organic Search,Android,True
+user_00301,2026-07-03T01:56:16+00:00,Paid Ads,Android,True
+user_00302,2026-05-17T15:30:08+00:00,Organic Search,Android,True
+user_00303,2026-06-15T21:44:23+00:00,Play Store,Android,True
+user_00304,2026-05-31T16:06:26+00:00,Social Media,Android,True
+user_00305,2026-05-14T11:18:41+00:00,Play Store,Android,True
+user_00306,2026-07-05T06:00:08+00:00,Play Store,Android,True
+user_00307,2026-07-21T17:37:54+00:00,Organic Search,Android,True
+user_00308,2026-10-10T17:32:15+00:00,Play Store,Android,True
+user_00309,2026-10-24T16:50:10+00:00,Referral,Android,True
+user_00310,2026-09-14T01:21:19+00:00,Organic Search,Android,True
+user_00311,2026-10-20T00:08:27+00:00,Referral,Android,True
+user_00312,2026-07-14T20:41:14+00:00,Play Store,Android,True
+user_00313,2026-07-09T07:17:53+00:00,Organic Search,Android,True
+user_00314,2026-07-16T17:27:10+00:00,Referral,Android,True
+user_00315,2026-10-11T06:45:40+00:00,Play Store,Android,True
+user_00316,2026-09-24T03:39:31+00:00,Referral,Android,True
+user_00317,2026-10-04T07:38:21+00:00,Social Media,Android,True
+user_00318,2026-06-13T19:46:05+00:00,Play Store,Android,True
+user_00319,2026-06-23T23:57:14+00:00,Play Store,Android,True
+user_00320,2026-05-07T15:14:55+00:00,Play Store,Android,True
+user_00321,2026-09-08T21:09:37+00:00,Social Media,Android,True
+user_00322,2026-07-19T12:14:08+00:00,Social Media,Android,True
+user_00323,2026-10-12T05:01:25+00:00,Play Store,Android,True
+user_00324,2026-05-26T18:46:19+00:00,Paid Ads,Android,True
+user_00325,2026-08-13T17:10:47+00:00,Organic Search,Android,True
+user_00326,2026-07-17T12:15:02+00:00,Social Media,Android,True
+user_00327,2026-09-07T17:47:10+00:00,Organic Search,Android,True
+user_00328,2026-09-03T19:24:49+00:00,Play Store,Android,True
+user_00329,2026-10-17T07:48:12+00:00,Play Store,Android,True
+user_00330,2026-05-11T18:19:36+00:00,Organic Search,Android,True
+user_00331,2026-07-04T13:33:26+00:00,Organic Search,Android,True
+user_00332,2026-07-04T11:11:42+00:00,Play Store,Android,True
+user_00333,2026-10-19T19:24:10+00:00,Play Store,Android,True
+user_00334,2026-09-25T00:36:11+00:00,Paid Ads,Android,True
+user_00335,2026-07-22T20:37:04+00:00,Organic Search,Android,True
+user_00336,2026-05-17T21:41:38+00:00,Play Store,Android,True
+user_00337,2026-09-24T10:41:21+00:00,Play Store,Android,True
+user_00338,2026-07-08T22:55:00+00:00,Organic Search,Android,True
+user_00339,2026-05-15T07:46:05+00:00,Referral,Android,True
+user_00340,2026-09-05T13:22:48+00:00,Organic Search,Android,True
+user_00341,2026-05-08T00:35:36+00:00,Paid Ads,Android,True
+user_00342,2026-06-09T17:04:17+00:00,Referral,Android,True
+user_00343,2026-08-30T15:37:02+00:00,Organic Search,Android,True
+user_00344,2026-05-26T12:12:56+00:00,Play Store,Android,True
+user_00345,2026-05-24T05:04:36+00:00,Social Media,Android,True
+user_00346,2026-06-13T07:46:18+00:00,Play Store,Android,True
+user_00347,2026-06-20T18:09:55+00:00,Referral,Android,True
+user_00348,2026-06-03T13:56:14+00:00,Social Media,Android,True
+user_00349,2026-09-24T05:34:10+00:00,Social Media,Android,True
+user_00350,2026-09-30T00:45:22+00:00,Referral,Android,True
+user_00351,2026-07-01T09:31:47+00:00,Organic Search,Android,True
+user_00352,2026-05-06T23:39:12+00:00,Paid Ads,Android,True
+user_00353,2026-08-21T19:23:26+00:00,Social Media,Android,True
+user_00354,2026-07-13T21:02:25+00:00,Play Store,Android,True
+user_00355,2026-09-17T20:11:36+00:00,Organic Search,Android,True
+user_00356,2026-08-24T23:21:33+00:00,Social Media,Android,True
+user_00357,2026-08-31T19:08:41+00:00,Organic Search,Android,True
+user_00358,2026-09-14T09:08:17+00:00,Referral,Android,True
+user_00359,2026-10-14T02:38:13+00:00,Social Media,Android,True
+user_00360,2026-10-05T10:00:56+00:00,Organic Search,Android,True
+user_00361,2026-08-19T21:25:12+00:00,Referral,Android,True
+user_00362,2026-07-08T10:04:12+00:00,Play Store,Android,True
+user_00363,2026-09-07T10:53:46+00:00,Play Store,Android,True
+user_00364,2026-08-08T05:55:53+00:00,Social Media,Android,True
+user_00365,2026-05-04T10:56:47+00:00,Referral,Android,True
+user_00366,2026-10-08T16:19:23+00:00,Play Store,Android,True
+user_00367,2026-07-25T04:20:55+00:00,Paid Ads,Android,True
+user_00368,2026-09-02T10:01:28+00:00,Paid Ads,Android,True
+user_00369,2026-07-30T06:31:26+00:00,Social Media,Android,True
+user_00370,2026-07-25T13:30:01+00:00,Organic Search,Android,True
+user_00371,2026-08-11T07:29:57+00:00,Paid Ads,Android,True
+user_00372,2026-06-23T10:39:30+00:00,Social Media,Android,True
+user_00373,2026-10-27T13:42:44+00:00,Play Store,Android,True
+user_00374,2026-08-03T21:14:42+00:00,Play Store,Android,True
+user_00375,2026-10-09T08:11:07+00:00,Referral,Android,True
+user_00376,2026-06-23T02:47:49+00:00,Play Store,Android,True
+user_00377,2026-06-18T16:04:25+00:00,Referral,Android,True
+user_00378,2026-05-18T19:51:42+00:00,Organic Search,Android,True
+user_00379,2026-07-28T12:52:22+00:00,Organic Search,Android,True
+user_00380,2026-07-31T05:40:54+00:00,Social Media,Android,True
+user_00381,2026-09-08T17:58:02+00:00,Play Store,Android,True
+user_00382,2026-05-07T13:44:06+00:00,Play Store,Android,True
+user_00383,2026-07-04T02:39:32+00:00,Organic Search,Android,True
+user_00384,2026-06-12T04:32:00+00:00,Play Store,Android,True
+user_00385,2026-06-21T03:59:34+00:00,Play Store,Android,True
+user_00386,2026-10-19T22:34:18+00:00,Social Media,Android,True
+user_00387,2026-10-19T21:34:51+00:00,Organic Search,Android,True
+user_00388,2026-05-03T23:17:27+00:00,Play Store,Android,True
+user_00389,2026-06-08T02:22:14+00:00,Organic Search,Android,True
+user_00390,2026-09-18T19:46:28+00:00,Play Store,Android,True
+user_00391,2026-08-17T19:17:31+00:00,Referral,Android,True
+user_00392,2026-09-13T02:27:22+00:00,Play Store,Android,True
+user_00393,2026-09-17T05:24:33+00:00,Play Store,Android,True
+user_00394,2026-10-02T23:19:06+00:00,Organic Search,Android,True
+user_00395,2026-06-28T03:13:13+00:00,Organic Search,Android,True
+user_00396,2026-09-13T07:56:42+00:00,Organic Search,Android,True
+user_00397,2026-09-07T22:15:40+00:00,Social Media,Android,True
+user_00398,2026-08-01T21:32:13+00:00,Social Media,Android,True
+user_00399,2026-07-07T18:00:32+00:00,Play Store,Android,True
+user_00400,2026-09-23T20:17:39+00:00,Social Media,Android,True
+user_00401,2026-07-09T07:32:21+00:00,Social Media,Android,True
+user_00402,2026-06-23T14:32:43+00:00,Play Store,Android,True
+user_00403,2026-06-15T18:22:06+00:00,Organic Search,Android,True
+user_00404,2026-06-08T09:29:28+00:00,Play Store,Android,True
+user_00405,2026-09-23T06:03:36+00:00,Play Store,Android,True
+user_00406,2026-09-27T00:02:39+00:00,Social Media,Android,True
+user_00407,2026-06-08T04:37:44+00:00,Organic Search,Android,True
+user_00408,2026-08-04T00:30:44+00:00,Organic Search,Android,True
+user_00409,2026-08-24T11:39:26+00:00,Paid Ads,Android,True
+user_00410,2026-08-11T20:58:06+00:00,Social Media,Android,True
+user_00411,2026-05-21T12:28:08+00:00,Referral,Android,True
+user_00412,2026-06-28T12:35:30+00:00,Organic Search,Android,True
+user_00413,2026-06-05T20:14:29+00:00,Play Store,Android,True
+user_00414,2026-09-16T11:35:19+00:00,Play Store,Android,True
+user_00415,2026-06-24T06:22:00+00:00,Organic Search,Android,True
+user_00416,2026-05-12T14:05:34+00:00,Social Media,Android,True
+user_00417,2026-09-14T10:11:02+00:00,Paid Ads,Android,True
+user_00418,2026-09-02T20:40:16+00:00,Referral,Android,True
+user_00419,2026-08-05T07:38:37+00:00,Organic Search,Android,True
+user_00420,2026-05-04T09:08:39+00:00,Social Media,Android,True
+user_00421,2026-08-01T03:31:53+00:00,Play Store,Android,True
+user_00422,2026-07-07T03:47:17+00:00,Organic Search,Android,True
+user_00423,2026-05-11T23:24:58+00:00,Organic Search,Android,True
+user_00424,2026-10-16T07:54:12+00:00,Play Store,Android,True
+user_00425,2026-10-08T15:19:11+00:00,Organic Search,Android,True
+user_00426,2026-08-05T11:41:18+00:00,Organic Search,Android,True
+user_00427,2026-09-01T05:24:46+00:00,Social Media,Android,True
+user_00428,2026-05-31T11:04:56+00:00,Organic Search,Android,True
+user_00429,2026-08-19T07:00:21+00:00,Paid Ads,Android,True
+user_00430,2026-05-18T12:57:18+00:00,Paid Ads,Android,True
+user_00431,2026-05-25T00:00:27+00:00,Social Media,Android,True
+user_00432,2026-07-21T19:29:41+00:00,Social Media,Android,True
+user_00433,2026-10-02T13:06:09+00:00,Social Media,Android,True
+user_00434,2026-09-29T14:58:38+00:00,Play Store,Android,True
+user_00435,2026-07-28T11:31:58+00:00,Paid Ads,Android,True
+user_00436,2026-06-28T17:44:57+00:00,Referral,Android,True
+user_00437,2026-07-24T06:28:30+00:00,Play Store,Android,True
+user_00438,2026-08-30T14:10:49+00:00,Organic Search,Android,True
+user_00439,2026-09-22T17:02:58+00:00,Organic Search,Android,True
+user_00440,2026-09-27T02:35:45+00:00,Organic Search,Android,True
+user_00441,2026-06-11T23:25:55+00:00,Organic Search,Android,True
+user_00442,2026-05-17T18:20:39+00:00,Organic Search,Android,True
+user_00443,2026-06-04T18:00:47+00:00,Social Media,Android,True
+user_00444,2026-06-01T09:28:41+00:00,Organic Search,Android,True
+user_00445,2026-07-28T11:28:57+00:00,Social Media,Android,True
+user_00446,2026-08-01T05:56:03+00:00,Organic Search,Android,True
+user_00447,2026-06-15T22:44:26+00:00,Organic Search,Android,True
+user_00448,2026-06-25T21:32:47+00:00,Social Media,Android,True
+user_00449,2026-07-29T03:55:21+00:00,Organic Search,Android,True
+user_00450,2026-06-16T07:49:01+00:00,Paid Ads,Android,True
+user_00451,2026-10-01T23:31:40+00:00,Referral,Android,True
+user_00452,2026-08-24T12:36:07+00:00,Social Media,Android,True
+user_00453,2026-06-09T09:53:15+00:00,Play Store,Android,True
+user_00454,2026-08-15T17:49:40+00:00,Organic Search,Android,True
+user_00455,2026-05-30T22:19:27+00:00,Paid Ads,Android,True
+user_00456,2026-10-09T12:21:49+00:00,Organic Search,Android,True
+user_00457,2026-05-13T13:55:00+00:00,Organic Search,Android,True
+user_00458,2026-06-30T17:33:29+00:00,Social Media,Android,True
+user_00459,2026-10-09T01:13:17+00:00,Social Media,Android,True
+user_00460,2026-06-27T01:00:22+00:00,Play Store,Android,True
+user_00461,2026-08-01T00:16:27+00:00,Social Media,Android,True
+user_00462,2026-09-14T20:58:43+00:00,Play Store,Android,True
+user_00463,2026-06-23T20:44:33+00:00,Play Store,Android,True
+user_00464,2026-08-05T21:14:09+00:00,Play Store,Android,True
+user_00465,2026-08-26T03:02:10+00:00,Organic Search,Android,True
+user_00466,2026-07-24T21:22:58+00:00,Referral,Android,True
+user_00467,2026-08-27T05:29:34+00:00,Organic Search,Android,True
+user_00468,2026-05-19T17:35:50+00:00,Organic Search,Android,True
+user_00469,2026-09-09T22:26:29+00:00,Referral,Android,True
+user_00470,2026-08-21T16:36:19+00:00,Social Media,Android,True
+user_00471,2026-05-06T00:39:50+00:00,Paid Ads,Android,True
+user_00472,2026-09-09T13:02:33+00:00,Referral,Android,True
+user_00473,2026-08-21T21:29:20+00:00,Organic Search,Android,True
+user_00474,2026-09-25T20:27:05+00:00,Organic Search,Android,True
+user_00475,2026-08-10T18:31:48+00:00,Social Media,Android,True
+user_00476,2026-10-26T21:11:31+00:00,Organic Search,Android,True
+user_00477,2026-08-23T15:49:01+00:00,Play Store,Android,True
+user_00478,2026-10-07T02:38:23+00:00,Play Store,Android,True
+user_00479,2026-05-19T17:12:13+00:00,Play Store,Android,True
+user_00480,2026-07-20T07:01:24+00:00,Play Store,Android,True
+user_00481,2026-09-09T03:01:54+00:00,Organic Search,Android,True
+user_00482,2026-06-02T05:28:53+00:00,Play Store,Android,True
+user_00483,2026-09-13T16:44:13+00:00,Play Store,Android,True
+user_00484,2026-09-07T15:50:47+00:00,Paid Ads,Android,True
+user_00485,2026-10-06T23:28:33+00:00,Referral,Android,True
+user_00486,2026-05-09T03:00:15+00:00,Play Store,Android,True
+user_00487,2026-07-02T01:44:22+00:00,Organic Search,Android,True
+user_00488,2026-05-24T12:13:01+00:00,Paid Ads,Android,True
+user_00489,2026-07-19T11:34:32+00:00,Referral,Android,True
+user_00490,2026-10-09T04:25:21+00:00,Paid Ads,Android,True
+user_00491,2026-09-06T16:54:10+00:00,Referral,Android,True
+user_00492,2026-07-30T16:56:56+00:00,Play Store,Android,True
+user_00493,2026-06-07T10:10:52+00:00,Play Store,Android,True
+user_00494,2026-08-30T21:40:02+00:00,Referral,Android,True
+user_00495,2026-08-31T10:35:57+00:00,Play Store,Android,True
+user_00496,2026-05-12T00:30:41+00:00,Organic Search,Android,True
+user_00497,2026-08-16T15:31:56+00:00,Organic Search,Android,True
+user_00498,2026-06-26T22:17:47+00:00,Play Store,Android,True
+user_00499,2026-09-14T14:03:51+00:00,Play Store,Android,True
+user_00500,2026-05-07T14:31:28+00:00,Paid Ads,Android,True
+user_00501,2026-08-28T05:31:51+00:00,Referral,Android,True
+user_00502,2026-09-16T19:48:39+00:00,Organic Search,Android,True
+user_00503,2026-08-16T23:04:45+00:00,Organic Search,Android,True
+user_00504,2026-07-20T05:21:27+00:00,Organic Search,Android,True
+user_00505,2026-10-12T09:13:04+00:00,Paid Ads,Android,True
+user_00506,2026-07-30T14:29:10+00:00,Paid Ads,Android,True
+user_00507,2026-09-04T18:31:45+00:00,Referral,Android,True
+user_00508,2026-08-06T18:34:53+00:00,Paid Ads,Android,True
+user_00509,2026-06-27T16:09:24+00:00,Play Store,Android,True
+user_00510,2026-06-24T02:14:08+00:00,Play Store,Android,True
+user_00511,2026-08-03T16:35:39+00:00,Paid Ads,Android,True
+user_00512,2026-06-18T07:51:06+00:00,Play Store,Android,True
+user_00513,2026-05-30T02:03:49+00:00,Play Store,Android,True
+user_00514,2026-08-26T09:17:07+00:00,Play Store,Android,True
+user_00515,2026-10-19T17:56:26+00:00,Organic Search,Android,True
+user_00516,2026-05-15T13:19:18+00:00,Organic Search,Android,True
+user_00517,2026-10-02T09:40:44+00:00,Referral,Android,True
+user_00518,2026-07-06T23:55:00+00:00,Paid Ads,Android,True
+user_00519,2026-08-08T14:12:44+00:00,Organic Search,Android,True
+user_00520,2026-05-02T11:56:17+00:00,Organic Search,Android,True
+user_00521,2026-06-28T23:21:15+00:00,Referral,Android,True
+user_00522,2026-08-22T14:37:19+00:00,Paid Ads,Android,True
+user_00523,2026-08-05T01:52:21+00:00,Referral,Android,True
+user_00524,2026-07-27T17:02:42+00:00,Play Store,Android,True
+user_00525,2026-07-08T00:22:38+00:00,Play Store,Android,True
+user_00526,2026-09-27T03:13:39+00:00,Play Store,Android,True
+user_00527,2026-07-29T10:02:34+00:00,Paid Ads,Android,True
+user_00528,2026-10-17T20:37:15+00:00,Organic Search,Android,True
+user_00529,2026-09-14T10:33:41+00:00,Organic Search,Android,True
+user_00530,2026-07-15T08:45:24+00:00,Organic Search,Android,True
+user_00531,2026-09-29T14:16:57+00:00,Play Store,Android,True
+user_00532,2026-07-02T18:47:32+00:00,Referral,Android,True
+user_00533,2026-09-15T22:35:00+00:00,Paid Ads,Android,True
+user_00534,2026-07-15T00:38:57+00:00,Play Store,Android,True
+user_00535,2026-09-07T20:59:50+00:00,Referral,Android,True
+user_00536,2026-09-05T14:36:43+00:00,Paid Ads,Android,True
+user_00537,2026-08-06T04:22:55+00:00,Paid Ads,Android,True
+user_00538,2026-05-26T12:20:00+00:00,Play Store,Android,True
+user_00539,2026-08-24T14:25:24+00:00,Play Store,Android,True
+user_00540,2026-05-21T11:42:58+00:00,Referral,Android,True
+user_00541,2026-07-26T11:57:32+00:00,Organic Search,Android,True
+user_00542,2026-10-25T18:56:56+00:00,Play Store,Android,True
+user_00543,2026-09-19T06:48:56+00:00,Organic Search,Android,True
+user_00544,2026-10-18T02:49:30+00:00,Social Media,Android,True
+user_00545,2026-05-31T23:21:31+00:00,Organic Search,Android,True
+user_00546,2026-09-30T18:09:18+00:00,Paid Ads,Android,True
+user_00547,2026-07-06T17:47:34+00:00,Social Media,Android,True
+user_00548,2026-07-18T04:23:23+00:00,Social Media,Android,True
+user_00549,2026-10-14T09:29:50+00:00,Play Store,Android,True
+user_00550,2026-09-09T22:43:01+00:00,Referral,Android,True
+user_00551,2026-07-14T18:57:19+00:00,Paid Ads,Android,True
+user_00552,2026-08-31T17:04:45+00:00,Social Media,Android,True
+user_00553,2026-09-26T11:03:08+00:00,Play Store,Android,True
+user_00554,2026-08-15T01:18:02+00:00,Organic Search,Android,True
+user_00555,2026-05-15T06:50:49+00:00,Organic Search,Android,True
+user_00556,2026-09-11T21:30:59+00:00,Paid Ads,Android,True
+user_00557,2026-06-15T04:08:46+00:00,Referral,Android,True
+user_00558,2026-07-25T06:26:13+00:00,Paid Ads,Android,True
+user_00559,2026-09-26T15:33:46+00:00,Social Media,Android,True
+user_00560,2026-10-18T10:29:50+00:00,Organic Search,Android,True
+user_00561,2026-06-03T07:17:57+00:00,Social Media,Android,True
+user_00562,2026-10-24T10:14:40+00:00,Organic Search,Android,True
+user_00563,2026-07-03T23:40:43+00:00,Referral,Android,True
+user_00564,2026-06-27T23:10:34+00:00,Play Store,Android,True
+user_00565,2026-07-24T15:07:45+00:00,Organic Search,Android,True
+user_00566,2026-08-13T03:23:52+00:00,Play Store,Android,True
+user_00567,2026-09-11T09:24:12+00:00,Referral,Android,True
+user_00568,2026-06-04T00:09:52+00:00,Organic Search,Android,True
+user_00569,2026-08-28T08:25:15+00:00,Referral,Android,True
+user_00570,2026-08-30T08:02:34+00:00,Social Media,Android,True
+user_00571,2026-08-06T15:16:50+00:00,Paid Ads,Android,True
+user_00572,2026-05-29T18:57:36+00:00,Organic Search,Android,True
+user_00573,2026-09-02T20:50:03+00:00,Organic Search,Android,True
+user_00574,2026-06-20T13:53:31+00:00,Social Media,Android,True
+user_00575,2026-10-23T13:12:02+00:00,Referral,Android,True
+user_00576,2026-10-23T23:55:25+00:00,Organic Search,Android,True
+user_00577,2026-08-16T03:18:55+00:00,Organic Search,Android,True
+user_00578,2026-07-26T18:35:35+00:00,Paid Ads,Android,True
+user_00579,2026-08-24T02:15:57+00:00,Organic Search,Android,True
+user_00580,2026-07-23T09:24:22+00:00,Social Media,Android,True
+user_00581,2026-07-29T16:59:33+00:00,Referral,Android,True
+user_00582,2026-06-09T16:24:06+00:00,Paid Ads,Android,True
+user_00583,2026-10-14T16:48:53+00:00,Play Store,Android,True
+user_00584,2026-06-17T01:26:31+00:00,Play Store,Android,True
+user_00585,2026-07-10T16:51:15+00:00,Social Media,Android,True
+user_00586,2026-09-14T18:51:36+00:00,Organic Search,Android,True
+user_00587,2026-10-10T04:14:19+00:00,Social Media,Android,True
+user_00588,2026-06-24T07:09:16+00:00,Organic Search,Android,True
+user_00589,2026-10-16T23:29:22+00:00,Social Media,Android,True
+user_00590,2026-09-23T14:23:29+00:00,Paid Ads,Android,True
+user_00591,2026-10-25T19:45:57+00:00,Social Media,Android,True
+user_00592,2026-08-06T10:54:00+00:00,Referral,Android,True
+user_00593,2026-10-24T07:57:54+00:00,Organic Search,Android,True
+user_00594,2026-10-04T02:56:28+00:00,Organic Search,Android,True
+user_00595,2026-10-04T17:15:25+00:00,Play Store,Android,True
+user_00596,2026-09-02T14:50:15+00:00,Organic Search,Android,True
+user_00597,2026-06-19T15:59:19+00:00,Social Media,Android,True
+user_00598,2026-09-18T23:45:11+00:00,Referral,Android,True
+user_00599,2026-09-11T04:59:52+00:00,Referral,Android,True
+user_00600,2026-08-31T23:49:54+00:00,Organic Search,Android,True
+user_00601,2026-08-31T20:09:00+00:00,Social Media,Android,True
+user_00602,2026-06-30T23:42:53+00:00,Referral,Android,True
+user_00603,2026-05-08T11:28:23+00:00,Social Media,Android,True
+user_00604,2026-09-21T05:01:38+00:00,Organic Search,Android,True
+user_00605,2026-10-25T15:09:22+00:00,Organic Search,Android,True
+user_00606,2026-09-24T03:29:47+00:00,Play Store,Android,True
+user_00607,2026-06-09T23:45:17+00:00,Organic Search,Android,True
+user_00608,2026-08-14T17:48:20+00:00,Referral,Android,True
+user_00609,2026-07-12T01:00:10+00:00,Play Store,Android,True
+user_00610,2026-10-26T09:08:28+00:00,Organic Search,Android,True
+user_00611,2026-06-02T22:48:57+00:00,Organic Search,Android,True
+user_00612,2026-10-09T03:18:59+00:00,Paid Ads,Android,True
+user_00613,2026-10-05T14:29:31+00:00,Organic Search,Android,True
+user_00614,2026-10-18T00:19:37+00:00,Play Store,Android,True
+user_00615,2026-05-24T08:42:47+00:00,Play Store,Android,True
+user_00616,2026-05-16T14:54:13+00:00,Organic Search,Android,True
+user_00617,2026-06-14T19:25:26+00:00,Referral,Android,True
+user_00618,2026-09-19T15:04:40+00:00,Social Media,Android,True
+user_00619,2026-07-18T04:03:18+00:00,Paid Ads,Android,True
+user_00620,2026-10-05T05:38:00+00:00,Social Media,Android,True
+user_00621,2026-05-19T12:49:30+00:00,Referral,Android,True
+user_00622,2026-05-04T16:50:56+00:00,Organic Search,Android,True
+user_00623,2026-05-25T23:56:54+00:00,Play Store,Android,True
+user_00624,2026-09-09T15:35:27+00:00,Referral,Android,True
+user_00625,2026-06-21T21:44:38+00:00,Social Media,Android,True
+user_00626,2026-10-08T16:43:32+00:00,Social Media,Android,True
+user_00627,2026-07-13T03:10:33+00:00,Organic Search,Android,True
+user_00628,2026-06-16T09:40:20+00:00,Play Store,Android,True
+user_00629,2026-08-30T07:16:51+00:00,Paid Ads,Android,True
+user_00630,2026-08-19T00:19:52+00:00,Play Store,Android,True
+user_00631,2026-08-28T11:10:20+00:00,Organic Search,Android,True
+user_00632,2026-05-14T06:35:45+00:00,Social Media,Android,True
+user_00633,2026-07-31T03:37:36+00:00,Paid Ads,Android,True
+user_00634,2026-06-29T16:17:29+00:00,Social Media,Android,True
+user_00635,2026-05-24T15:43:57+00:00,Organic Search,Android,True
+user_00636,2026-05-09T05:24:15+00:00,Play Store,Android,True
+user_00637,2026-08-05T15:46:49+00:00,Organic Search,Android,True
+user_00638,2026-06-16T14:13:50+00:00,Paid Ads,Android,True
+user_00639,2026-05-28T08:13:25+00:00,Play Store,Android,True
+user_00640,2026-07-13T01:01:20+00:00,Social Media,Android,True
+user_00641,2026-09-23T07:16:02+00:00,Social Media,Android,True
+user_00642,2026-08-14T21:27:46+00:00,Play Store,Android,True
+user_00643,2026-09-23T03:12:27+00:00,Social Media,Android,True
+user_00644,2026-10-20T22:18:38+00:00,Play Store,Android,True
+user_00645,2026-05-21T05:27:27+00:00,Referral,Android,True
+user_00646,2026-08-29T13:07:50+00:00,Play Store,Android,True
+user_00647,2026-06-25T07:40:00+00:00,Organic Search,Android,True
+user_00648,2026-07-12T22:46:41+00:00,Organic Search,Android,True
+user_00649,2026-07-27T08:24:58+00:00,Paid Ads,Android,True
+user_00650,2026-10-15T02:40:12+00:00,Play Store,Android,True
+user_00651,2026-09-12T03:29:05+00:00,Play Store,Android,True
+user_00652,2026-10-24T02:11:32+00:00,Paid Ads,Android,True
+user_00653,2026-07-10T15:31:28+00:00,Organic Search,Android,True
+user_00654,2026-06-24T13:41:02+00:00,Organic Search,Android,True
+user_00655,2026-05-25T17:17:19+00:00,Paid Ads,Android,True
+user_00656,2026-10-09T00:59:31+00:00,Play Store,Android,True
+user_00657,2026-09-07T16:42:34+00:00,Organic Search,Android,True
+user_00658,2026-09-03T04:14:10+00:00,Social Media,Android,True
+user_00659,2026-05-06T03:30:58+00:00,Organic Search,Android,True
+user_00660,2026-07-05T18:14:55+00:00,Organic Search,Android,True
+user_00661,2026-05-26T10:49:52+00:00,Referral,Android,True
+user_00662,2026-06-10T20:18:38+00:00,Organic Search,Android,True
+user_00663,2026-09-27T13:52:30+00:00,Social Media,Android,True
+user_00664,2026-08-23T20:43:35+00:00,Organic Search,Android,True
+user_00665,2026-10-17T21:03:28+00:00,Organic Search,Android,True
+user_00666,2026-09-29T08:48:08+00:00,Organic Search,Android,True
+user_00667,2026-10-23T20:45:43+00:00,Social Media,Android,True
+user_00668,2026-06-24T20:10:39+00:00,Referral,Android,True
+user_00669,2026-05-30T02:16:41+00:00,Paid Ads,Android,True
+user_00670,2026-08-14T21:34:11+00:00,Organic Search,Android,True
+user_00671,2026-06-04T21:11:55+00:00,Organic Search,Android,True
+user_00672,2026-10-17T05:55:23+00:00,Organic Search,Android,True
+user_00673,2026-05-04T21:14:14+00:00,Play Store,Android,True
+user_00674,2026-10-02T02:20:26+00:00,Organic Search,Android,True
+user_00675,2026-07-03T20:52:03+00:00,Organic Search,Android,True
+user_00676,2026-06-22T12:41:08+00:00,Organic Search,Android,True
+user_00677,2026-09-23T00:38:24+00:00,Play Store,Android,True
+user_00678,2026-05-24T01:37:38+00:00,Referral,Android,True
+user_00679,2026-08-02T11:27:01+00:00,Play Store,Android,True
+user_00680,2026-07-11T07:12:26+00:00,Play Store,Android,True
+user_00681,2026-05-23T04:12:42+00:00,Play Store,Android,True
+user_00682,2026-06-14T00:28:48+00:00,Paid Ads,Android,True
+user_00683,2026-05-10T10:04:44+00:00,Social Media,Android,True
+user_00684,2026-10-25T11:04:23+00:00,Referral,Android,True
+user_00685,2026-08-11T06:07:19+00:00,Play Store,Android,True
+user_00686,2026-09-03T22:10:05+00:00,Paid Ads,Android,True
+user_00687,2026-05-13T19:27:00+00:00,Paid Ads,Android,True
+user_00688,2026-10-13T12:40:50+00:00,Play Store,Android,True
+user_00689,2026-09-12T05:25:45+00:00,Organic Search,Android,True
+user_00690,2026-09-17T08:00:50+00:00,Paid Ads,Android,True
+user_00691,2026-05-16T06:28:29+00:00,Paid Ads,Android,True
+user_00692,2026-07-03T13:07:59+00:00,Social Media,Android,True
+user_00693,2026-05-14T18:05:05+00:00,Organic Search,Android,True
+user_00694,2026-08-31T05:30:49+00:00,Social Media,Android,True
+user_00695,2026-08-16T11:30:34+00:00,Social Media,Android,True
+user_00696,2026-07-14T23:07:35+00:00,Paid Ads,Android,True
+user_00697,2026-08-13T00:33:26+00:00,Organic Search,Android,True
+user_00698,2026-08-08T04:01:19+00:00,Social Media,Android,True
+user_00699,2026-05-21T06:11:18+00:00,Referral,Android,True
+user_00700,2026-05-24T05:11:29+00:00,Referral,Android,True
+user_00701,2026-09-05T09:28:29+00:00,Referral,Android,True
+user_00702,2026-08-17T01:23:30+00:00,Social Media,Android,True
+user_00703,2026-06-12T18:03:48+00:00,Play Store,Android,True
+user_00704,2026-10-21T10:47:14+00:00,Organic Search,Android,True
+user_00705,2026-07-06T19:31:08+00:00,Referral,Android,True
+user_00706,2026-07-18T10:12:02+00:00,Play Store,Android,True
+user_00707,2026-05-20T11:06:55+00:00,Play Store,Android,True
+user_00708,2026-07-01T16:26:55+00:00,Social Media,Android,True
+user_00709,2026-07-13T16:21:09+00:00,Paid Ads,Android,True
+user_00710,2026-09-12T08:48:04+00:00,Paid Ads,Android,True
+user_00711,2026-05-15T00:50:50+00:00,Organic Search,Android,True
+user_00712,2026-05-18T13:48:36+00:00,Organic Search,Android,True
+user_00713,2026-05-20T18:00:22+00:00,Referral,Android,True
+user_00714,2026-07-13T08:38:36+00:00,Referral,Android,True
+user_00715,2026-08-18T00:51:32+00:00,Organic Search,Android,True
+user_00716,2026-08-19T01:09:56+00:00,Social Media,Android,True
+user_00717,2026-09-09T02:28:17+00:00,Organic Search,Android,True
+user_00718,2026-07-09T15:52:11+00:00,Referral,Android,True
+user_00719,2026-09-24T16:33:40+00:00,Play Store,Android,True
+user_00720,2026-10-26T20:07:27+00:00,Social Media,Android,True
+user_00721,2026-06-26T20:26:00+00:00,Social Media,Android,True
+user_00722,2026-07-09T06:46:24+00:00,Organic Search,Android,True
+user_00723,2026-08-08T12:41:49+00:00,Organic Search,Android,True
+user_00724,2026-09-06T12:35:46+00:00,Play Store,Android,True
+user_00725,2026-10-13T12:34:13+00:00,Organic Search,Android,True
+user_00726,2026-10-13T03:42:32+00:00,Social Media,Android,True
+user_00727,2026-05-24T07:23:15+00:00,Referral,Android,True
+user_00728,2026-08-21T11:28:59+00:00,Organic Search,Android,True
+user_00729,2026-07-24T07:47:31+00:00,Referral,Android,True
+user_00730,2026-09-28T00:28:41+00:00,Referral,Android,True
+user_00731,2026-08-29T03:26:31+00:00,Social Media,Android,True
+user_00732,2026-08-18T02:34:43+00:00,Organic Search,Android,True
+user_00733,2026-09-06T17:41:56+00:00,Referral,Android,True
+user_00734,2026-06-22T22:22:48+00:00,Organic Search,Android,True
+user_00735,2026-06-24T01:30:56+00:00,Social Media,Android,True
+user_00736,2026-06-30T23:57:22+00:00,Paid Ads,Android,True
+user_00737,2026-07-09T03:52:15+00:00,Organic Search,Android,True
+user_00738,2026-10-17T21:50:14+00:00,Organic Search,Android,True
+user_00739,2026-09-06T15:25:52+00:00,Play Store,Android,True
+user_00740,2026-05-29T13:10:01+00:00,Referral,Android,True
+user_00741,2026-05-07T22:51:20+00:00,Organic Search,Android,True
+user_00742,2026-08-13T00:12:42+00:00,Organic Search,Android,True
+user_00743,2026-07-22T12:32:40+00:00,Play Store,Android,True
+user_00744,2026-06-01T13:33:49+00:00,Play Store,Android,True
+user_00745,2026-09-19T02:51:51+00:00,Play Store,Android,True
+user_00746,2026-08-20T05:09:39+00:00,Social Media,Android,True
+user_00747,2026-10-20T12:39:22+00:00,Organic Search,Android,True
+user_00748,2026-06-01T13:33:59+00:00,Referral,Android,True
+user_00749,2026-05-11T15:53:36+00:00,Social Media,Android,True
+user_00750,2026-06-23T20:04:28+00:00,Play Store,Android,True
+user_00751,2026-07-23T08:02:07+00:00,Play Store,Android,True
+user_00752,2026-07-26T20:03:30+00:00,Play Store,Android,True
+user_00753,2026-06-12T20:36:27+00:00,Referral,Android,True
+user_00754,2026-05-24T02:24:40+00:00,Play Store,Android,True
+user_00755,2026-05-23T12:46:01+00:00,Organic Search,Android,True
+user_00756,2026-09-10T17:57:30+00:00,Social Media,Android,True
+user_00757,2026-08-12T07:40:27+00:00,Social Media,Android,True
+user_00758,2026-05-10T19:38:36+00:00,Organic Search,Android,True
+user_00759,2026-08-26T09:02:24+00:00,Organic Search,Android,True
+user_00760,2026-06-10T16:39:50+00:00,Play Store,Android,True
+user_00761,2026-06-12T00:24:18+00:00,Referral,Android,True
+user_00762,2026-09-27T09:13:52+00:00,Organic Search,Android,True
+user_00763,2026-07-04T17:08:39+00:00,Organic Search,Android,True
+user_00764,2026-08-06T13:58:01+00:00,Referral,Android,True
+user_00765,2026-06-05T02:46:49+00:00,Organic Search,Android,True
+user_00766,2026-08-13T09:59:49+00:00,Social Media,Android,True
+user_00767,2026-08-07T03:22:29+00:00,Social Media,Android,True
+user_00768,2026-09-08T17:18:48+00:00,Referral,Android,True
+user_00769,2026-05-15T23:52:46+00:00,Play Store,Android,True
+user_00770,2026-09-23T02:08:47+00:00,Organic Search,Android,True
+user_00771,2026-05-05T15:19:30+00:00,Play Store,Android,True
+user_00772,2026-05-17T02:50:57+00:00,Referral,Android,True
+user_00773,2026-08-21T19:12:55+00:00,Play Store,Android,True
+user_00774,2026-07-19T12:43:50+00:00,Social Media,Android,True
+user_00775,2026-07-22T02:34:41+00:00,Organic Search,Android,True
+user_00776,2026-07-19T15:34:14+00:00,Organic Search,Android,True
+user_00777,2026-07-04T01:30:45+00:00,Organic Search,Android,True
+user_00778,2026-08-30T00:39:21+00:00,Play Store,Android,True
+user_00779,2026-09-12T21:47:56+00:00,Paid Ads,Android,True
+user_00780,2026-05-19T02:41:54+00:00,Play Store,Android,True
+user_00781,2026-05-22T13:20:28+00:00,Organic Search,Android,True
+user_00782,2026-08-24T08:19:20+00:00,Play Store,Android,True
+user_00783,2026-05-17T06:30:19+00:00,Play Store,Android,True
+user_00784,2026-07-01T05:58:03+00:00,Referral,Android,True
+user_00785,2026-06-14T00:35:02+00:00,Play Store,Android,True
+user_00786,2026-06-03T15:32:18+00:00,Organic Search,Android,True
+user_00787,2026-09-01T23:01:27+00:00,Organic Search,Android,True
+user_00788,2026-08-09T00:31:55+00:00,Organic Search,Android,True
+user_00789,2026-09-29T17:28:08+00:00,Play Store,Android,True
+user_00790,2026-09-20T05:48:56+00:00,Paid Ads,Android,True
+user_00791,2026-09-04T07:57:56+00:00,Referral,Android,True
+user_00792,2026-06-16T21:04:33+00:00,Organic Search,Android,True
+user_00793,2026-06-20T16:52:54+00:00,Organic Search,Android,True
+user_00794,2026-08-26T23:21:57+00:00,Organic Search,Android,True
+user_00795,2026-09-26T09:53:23+00:00,Social Media,Android,True
+user_00796,2026-06-05T09:32:38+00:00,Paid Ads,Android,True
+user_00797,2026-08-31T22:26:12+00:00,Play Store,Android,True
+user_00798,2026-09-25T11:57:20+00:00,Social Media,Android,True
+user_00799,2026-08-22T12:30:01+00:00,Play Store,Android,True
+user_00800,2026-10-20T06:37:32+00:00,Social Media,Android,True
+user_00801,2026-09-02T08:41:17+00:00,Paid Ads,Android,True
+user_00802,2026-07-03T18:14:34+00:00,Referral,Android,True
+user_00803,2026-08-31T19:01:41+00:00,Play Store,Android,True
+user_00804,2026-07-26T09:25:35+00:00,Organic Search,Android,True
+user_00805,2026-07-26T20:49:20+00:00,Social Media,Android,True
+user_00806,2026-10-03T15:08:55+00:00,Organic Search,Android,True
+user_00807,2026-05-12T21:45:51+00:00,Play Store,Android,True
+user_00808,2026-05-16T09:44:12+00:00,Play Store,Android,True
+user_00809,2026-07-28T18:03:16+00:00,Organic Search,Android,True
+user_00810,2026-07-12T14:25:30+00:00,Referral,Android,True
+user_00811,2026-05-16T21:34:32+00:00,Social Media,Android,True
+user_00812,2026-10-15T01:56:21+00:00,Organic Search,Android,True
+user_00813,2026-08-25T08:35:45+00:00,Play Store,Android,True
+user_00814,2026-07-30T20:22:33+00:00,Social Media,Android,True
+user_00815,2026-10-02T18:07:18+00:00,Referral,Android,True
+user_00816,2026-05-09T23:09:46+00:00,Play Store,Android,True
+user_00817,2026-10-06T05:59:56+00:00,Social Media,Android,True
+user_00818,2026-06-07T13:14:34+00:00,Play Store,Android,True
+user_00819,2026-08-02T08:34:30+00:00,Play Store,Android,True
+user_00820,2026-05-14T00:20:08+00:00,Play Store,Android,True
+user_00821,2026-10-06T11:21:45+00:00,Paid Ads,Android,True
+user_00822,2026-07-07T16:31:09+00:00,Paid Ads,Android,True
+user_00823,2026-05-18T08:59:08+00:00,Play Store,Android,True
+user_00824,2026-06-04T12:09:58+00:00,Organic Search,Android,True
+user_00825,2026-09-16T09:44:22+00:00,Play Store,Android,True
+user_00826,2026-07-26T07:50:14+00:00,Play Store,Android,True
+user_00827,2026-08-28T09:52:57+00:00,Organic Search,Android,True
+user_00828,2026-07-13T09:35:58+00:00,Paid Ads,Android,True
+user_00829,2026-07-16T05:28:31+00:00,Play Store,Android,True
+user_00830,2026-07-06T16:53:18+00:00,Social Media,Android,True
+user_00831,2026-05-12T04:01:27+00:00,Referral,Android,True
+user_00832,2026-09-04T16:38:41+00:00,Play Store,Android,True
+user_00833,2026-07-05T00:27:13+00:00,Organic Search,Android,True
+user_00834,2026-09-10T17:27:36+00:00,Play Store,Android,True
+user_00835,2026-06-19T22:22:07+00:00,Social Media,Android,True
+user_00836,2026-09-06T11:47:37+00:00,Paid Ads,Android,True
+user_00837,2026-08-27T00:46:21+00:00,Referral,Android,True
+user_00838,2026-07-05T17:33:46+00:00,Organic Search,Android,True
+user_00839,2026-09-07T20:38:23+00:00,Organic Search,Android,True
+user_00840,2026-07-08T22:15:58+00:00,Play Store,Android,True
+user_00841,2026-09-06T09:25:11+00:00,Social Media,Android,True
+user_00842,2026-07-17T02:38:23+00:00,Organic Search,Android,True
+user_00843,2026-09-16T15:23:21+00:00,Paid Ads,Android,True
+user_00844,2026-07-01T02:44:22+00:00,Social Media,Android,True
+user_00845,2026-09-03T22:52:45+00:00,Referral,Android,True
+user_00846,2026-10-06T21:41:56+00:00,Organic Search,Android,True
+user_00847,2026-09-15T11:24:45+00:00,Referral,Android,True
+user_00848,2026-09-22T10:55:22+00:00,Paid Ads,Android,True
+user_00849,2026-10-26T04:17:56+00:00,Play Store,Android,True
+user_00850,2026-09-04T10:40:37+00:00,Social Media,Android,True
+user_00851,2026-08-08T17:42:41+00:00,Play Store,Android,True
+user_00852,2026-07-11T09:48:39+00:00,Play Store,Android,True
+user_00853,2026-06-12T14:11:36+00:00,Play Store,Android,True
+user_00854,2026-09-27T18:31:48+00:00,Play Store,Android,True
+user_00855,2026-06-14T23:45:01+00:00,Paid Ads,Android,True
+user_00856,2026-06-01T02:04:48+00:00,Organic Search,Android,True
+user_00857,2026-10-12T23:18:17+00:00,Referral,Android,True
+user_00858,2026-08-08T13:59:19+00:00,Referral,Android,True
+user_00859,2026-10-11T03:55:25+00:00,Referral,Android,True
+user_00860,2026-08-12T05:47:54+00:00,Organic Search,Android,True
+user_00861,2026-07-06T09:25:08+00:00,Referral,Android,True
+user_00862,2026-08-30T00:13:07+00:00,Organic Search,Android,True
+user_00863,2026-07-14T03:37:30+00:00,Organic Search,Android,True
+user_00864,2026-06-06T02:47:11+00:00,Referral,Android,True
+user_00865,2026-09-28T17:33:34+00:00,Social Media,Android,True
+user_00866,2026-10-24T06:39:54+00:00,Organic Search,Android,True
+user_00867,2026-07-25T23:41:21+00:00,Organic Search,Android,True
+user_00868,2026-07-11T17:44:29+00:00,Social Media,Android,True
+user_00869,2026-06-17T02:57:15+00:00,Paid Ads,Android,True
+user_00870,2026-08-28T13:33:51+00:00,Organic Search,Android,True
+user_00871,2026-09-24T08:24:58+00:00,Referral,Android,True
+user_00872,2026-06-16T10:30:57+00:00,Play Store,Android,True
+user_00873,2026-07-01T02:12:29+00:00,Paid Ads,Android,True
+user_00874,2026-10-01T07:24:48+00:00,Play Store,Android,True
+user_00875,2026-10-11T03:53:37+00:00,Organic Search,Android,True
+user_00876,2026-09-10T17:07:20+00:00,Paid Ads,Android,True
+user_00877,2026-07-26T13:18:57+00:00,Play Store,Android,True
+user_00878,2026-06-25T17:08:05+00:00,Referral,Android,True
+user_00879,2026-08-07T15:41:54+00:00,Play Store,Android,True
+user_00880,2026-06-02T11:13:44+00:00,Referral,Android,True
+user_00881,2026-10-04T14:07:19+00:00,Social Media,Android,True
+user_00882,2026-10-18T12:28:01+00:00,Organic Search,Android,True
+user_00883,2026-09-03T12:05:39+00:00,Play Store,Android,True
+user_00884,2026-07-13T01:57:25+00:00,Social Media,Android,True
+user_00885,2026-05-21T22:05:10+00:00,Social Media,Android,True
+user_00886,2026-08-10T04:17:43+00:00,Referral,Android,True
+user_00887,2026-06-26T08:28:23+00:00,Organic Search,Android,True
+user_00888,2026-06-02T03:05:34+00:00,Organic Search,Android,True
+user_00889,2026-10-24T19:00:57+00:00,Play Store,Android,True
+user_00890,2026-10-10T08:56:30+00:00,Play Store,Android,True
+user_00891,2026-10-25T19:14:38+00:00,Organic Search,Android,True
+user_00892,2026-07-28T14:23:31+00:00,Paid Ads,Android,True
+user_00893,2026-05-07T04:16:31+00:00,Play Store,Android,True
+user_00894,2026-07-17T23:35:33+00:00,Play Store,Android,True
+user_00895,2026-06-16T18:47:19+00:00,Play Store,Android,True
+user_00896,2026-05-17T20:17:32+00:00,Play Store,Android,True
+user_00897,2026-05-07T11:20:48+00:00,Play Store,Android,True
+user_00898,2026-05-21T05:44:38+00:00,Referral,Android,True
+user_00899,2026-09-05T05:01:10+00:00,Play Store,Android,True
+user_00900,2026-05-30T08:37:20+00:00,Organic Search,Android,True
+user_00901,2026-06-26T16:56:17+00:00,Paid Ads,Android,True
+user_00902,2026-08-01T17:46:58+00:00,Social Media,Android,True
+user_00903,2026-05-28T22:48:14+00:00,Referral,Android,True
+user_00904,2026-08-01T02:11:41+00:00,Play Store,Android,True
+user_00905,2026-05-03T00:27:20+00:00,Paid Ads,Android,True
+user_00906,2026-05-05T16:32:52+00:00,Organic Search,Android,True
+user_00907,2026-10-11T03:11:36+00:00,Organic Search,Android,True
+user_00908,2026-09-20T05:08:35+00:00,Social Media,Android,True
+user_00909,2026-07-23T04:29:36+00:00,Organic Search,Android,True
+user_00910,2026-06-26T22:38:02+00:00,Organic Search,Android,True
+user_00911,2026-05-25T15:50:16+00:00,Organic Search,Android,True
+user_00912,2026-07-22T12:30:43+00:00,Social Media,Android,True
+user_00913,2026-08-30T22:29:27+00:00,Play Store,Android,True
+user_00914,2026-05-23T12:37:06+00:00,Referral,Android,True
+user_00915,2026-08-07T01:21:22+00:00,Social Media,Android,True
+user_00916,2026-05-05T04:34:39+00:00,Social Media,Android,True
+user_00917,2026-08-21T15:53:55+00:00,Organic Search,Android,True
+user_00918,2026-05-29T21:05:59+00:00,Organic Search,Android,True
+user_00919,2026-05-02T07:16:25+00:00,Social Media,Android,True
+user_00920,2026-06-17T17:05:38+00:00,Social Media,Android,True
+user_00921,2026-06-07T08:55:45+00:00,Social Media,Android,True
+user_00922,2026-05-18T14:58:23+00:00,Play Store,Android,True
+user_00923,2026-07-11T00:31:07+00:00,Organic Search,Android,True
+user_00924,2026-08-12T03:35:52+00:00,Play Store,Android,True
+user_00925,2026-10-01T16:55:49+00:00,Paid Ads,Android,True
+user_00926,2026-08-17T14:31:07+00:00,Organic Search,Android,True
+user_00927,2026-10-18T14:00:10+00:00,Play Store,Android,True
+user_00928,2026-09-02T10:25:26+00:00,Play Store,Android,True
+user_00929,2026-07-13T11:41:54+00:00,Organic Search,Android,True
+user_00930,2026-05-05T03:40:39+00:00,Play Store,Android,True
+user_00931,2026-05-15T02:50:01+00:00,Play Store,Android,True
+user_00932,2026-09-21T07:44:09+00:00,Social Media,Android,True
+user_00933,2026-05-22T03:05:31+00:00,Referral,Android,True
+user_00934,2026-09-21T18:12:10+00:00,Referral,Android,True
+user_00935,2026-05-27T21:43:01+00:00,Organic Search,Android,True
+user_00936,2026-08-16T00:35:30+00:00,Play Store,Android,True
+user_00937,2026-09-03T19:37:40+00:00,Organic Search,Android,True
+user_00938,2026-09-30T07:03:03+00:00,Social Media,Android,True
+user_00939,2026-09-14T00:43:55+00:00,Play Store,Android,True
+user_00940,2026-06-06T09:27:37+00:00,Referral,Android,True
+user_00941,2026-05-14T06:03:11+00:00,Social Media,Android,True
+user_00942,2026-07-29T20:55:29+00:00,Organic Search,Android,True
+user_00943,2026-06-10T03:27:55+00:00,Organic Search,Android,True
+user_00944,2026-06-09T17:34:48+00:00,Paid Ads,Android,True
+user_00945,2026-07-02T06:45:59+00:00,Paid Ads,Android,True
+user_00946,2026-08-10T01:50:41+00:00,Play Store,Android,True
+user_00947,2026-10-07T08:03:03+00:00,Play Store,Android,True
+user_00948,2026-06-20T04:30:39+00:00,Organic Search,Android,True
+user_00949,2026-09-04T14:45:29+00:00,Organic Search,Android,True
+user_00950,2026-07-10T07:36:12+00:00,Referral,Android,True
+user_00951,2026-05-11T06:45:58+00:00,Referral,Android,True
+user_00952,2026-07-05T10:51:52+00:00,Organic Search,Android,True
+user_00953,2026-10-04T05:11:20+00:00,Play Store,Android,True
+user_00954,2026-10-21T17:17:27+00:00,Play Store,Android,True
+user_00955,2026-07-26T09:18:16+00:00,Paid Ads,Android,True
+user_00956,2026-07-16T01:52:42+00:00,Play Store,Android,True
+user_00957,2026-06-07T06:36:52+00:00,Play Store,Android,True
+user_00958,2026-08-06T14:36:37+00:00,Play Store,Android,True
+user_00959,2026-10-03T19:37:41+00:00,Play Store,Android,True
+user_00960,2026-10-04T13:36:14+00:00,Organic Search,Android,True
+user_00961,2026-07-23T10:17:42+00:00,Organic Search,Android,True
+user_00962,2026-08-26T23:37:09+00:00,Paid Ads,Android,True
+user_00963,2026-06-06T00:58:17+00:00,Play Store,Android,True
+user_00964,2026-07-03T08:56:13+00:00,Organic Search,Android,True
+user_00965,2026-07-04T16:12:03+00:00,Social Media,Android,True
+user_00966,2026-06-30T12:21:27+00:00,Play Store,Android,True
+user_00967,2026-09-18T08:32:05+00:00,Play Store,Android,True
+user_00968,2026-09-12T22:31:13+00:00,Play Store,Android,True
+user_00969,2026-07-27T19:45:30+00:00,Organic Search,Android,True
+user_00970,2026-10-17T22:39:01+00:00,Paid Ads,Android,True
+user_00971,2026-08-29T09:23:56+00:00,Paid Ads,Android,True
+user_00972,2026-06-24T07:30:14+00:00,Social Media,Android,True
+user_00973,2026-10-02T16:32:14+00:00,Paid Ads,Android,True
+user_00974,2026-05-16T13:42:01+00:00,Social Media,Android,True
+user_00975,2026-07-19T21:03:36+00:00,Play Store,Android,True
+user_00976,2026-10-04T13:21:40+00:00,Referral,Android,True
+user_00977,2026-06-02T01:34:31+00:00,Paid Ads,Android,True
+user_00978,2026-05-29T17:23:01+00:00,Referral,Android,True
+user_00979,2026-09-10T16:06:23+00:00,Referral,Android,True
+user_00980,2026-05-08T18:09:29+00:00,Organic Search,Android,True
+user_00981,2026-06-16T19:48:05+00:00,Referral,Android,True
+user_00982,2026-07-12T03:11:51+00:00,Play Store,Android,True
+user_00983,2026-08-20T03:32:05+00:00,Organic Search,Android,True
+user_00984,2026-05-31T19:03:25+00:00,Social Media,Android,True
+user_00985,2026-07-13T00:48:11+00:00,Play Store,Android,True
+user_00986,2026-09-27T04:12:53+00:00,Organic Search,Android,True
+user_00987,2026-05-28T17:41:20+00:00,Play Store,Android,True
+user_00988,2026-07-18T06:57:23+00:00,Play Store,Android,True
+user_00989,2026-06-25T02:46:18+00:00,Organic Search,Android,True
+user_00990,2026-05-24T00:41:31+00:00,Organic Search,Android,True
+user_00991,2026-06-07T03:01:48+00:00,Play Store,Android,True
+user_00992,2026-07-16T03:28:30+00:00,Paid Ads,Android,True
+user_00993,2026-05-24T20:47:21+00:00,Organic Search,Android,True
+user_00994,2026-06-21T13:01:17+00:00,Social Media,Android,True
+user_00995,2026-06-12T15:57:14+00:00,Paid Ads,Android,True
+user_00996,2026-06-26T10:52:04+00:00,Social Media,Android,True
+user_00997,2026-08-05T09:08:31+00:00,Organic Search,Android,True
+user_00998,2026-05-28T08:31:24+00:00,Referral,Android,True
+user_00999,2026-07-28T18:39:17+00:00,Organic Search,Android,True
+user_01000,2026-09-17T12:31:40+00:00,Play Store,Android,True
+user_01001,2026-05-19T01:07:04+00:00,Referral,Android,True
+user_01002,2026-10-13T04:23:52+00:00,Paid Ads,Android,True
+user_01003,2026-09-08T16:20:32+00:00,Play Store,Android,True
+user_01004,2026-05-14T14:37:16+00:00,Play Store,Android,True
+user_01005,2026-06-27T09:10:10+00:00,Paid Ads,Android,True
+user_01006,2026-10-14T07:37:05+00:00,Organic Search,Android,True
+user_01007,2026-09-16T18:47:24+00:00,Paid Ads,Android,True
+user_01008,2026-09-02T19:52:51+00:00,Organic Search,Android,True
+user_01009,2026-07-11T04:39:32+00:00,Play Store,Android,True
+user_01010,2026-05-25T13:34:24+00:00,Paid Ads,Android,True
+user_01011,2026-10-02T19:16:36+00:00,Organic Search,Android,True
+user_01012,2026-10-02T11:23:19+00:00,Play Store,Android,True
+user_01013,2026-07-11T01:52:58+00:00,Social Media,Android,True
+user_01014,2026-07-12T15:14:02+00:00,Play Store,Android,True
+user_01015,2026-08-17T02:50:39+00:00,Organic Search,Android,True
+user_01016,2026-10-20T16:52:13+00:00,Organic Search,Android,True
+user_01017,2026-07-01T01:22:57+00:00,Play Store,Android,True
+user_01018,2026-09-18T05:08:09+00:00,Social Media,Android,True
+user_01019,2026-08-12T01:54:09+00:00,Play Store,Android,True
+user_01020,2026-07-20T12:04:54+00:00,Referral,Android,True
+user_01021,2026-05-16T07:41:11+00:00,Organic Search,Android,True
+user_01022,2026-07-02T13:26:21+00:00,Social Media,Android,True
+user_01023,2026-07-28T09:00:59+00:00,Play Store,Android,True
+user_01024,2026-08-10T11:03:20+00:00,Play Store,Android,True
+user_01025,2026-10-19T11:34:27+00:00,Referral,Android,True
+user_01026,2026-08-17T01:14:36+00:00,Social Media,Android,True
+user_01027,2026-06-06T07:59:34+00:00,Referral,Android,True
+user_01028,2026-05-27T01:19:13+00:00,Play Store,Android,True
+user_01029,2026-10-25T20:12:36+00:00,Referral,Android,True
+user_01030,2026-10-10T10:32:43+00:00,Organic Search,Android,True
+user_01031,2026-05-31T17:05:13+00:00,Play Store,Android,True
+user_01032,2026-06-02T10:48:14+00:00,Play Store,Android,True
+user_01033,2026-09-16T17:42:38+00:00,Organic Search,Android,True
+user_01034,2026-08-10T18:13:20+00:00,Paid Ads,Android,True
+user_01035,2026-10-13T06:19:12+00:00,Organic Search,Android,True
+user_01036,2026-06-09T02:48:59+00:00,Social Media,Android,True
+user_01037,2026-08-16T23:05:25+00:00,Organic Search,Android,True
+user_01038,2026-08-31T08:47:55+00:00,Play Store,Android,True
+user_01039,2026-08-13T14:10:16+00:00,Organic Search,Android,True
+user_01040,2026-09-03T11:12:04+00:00,Organic Search,Android,True
+user_01041,2026-08-22T17:59:31+00:00,Organic Search,Android,True
+user_01042,2026-09-06T21:54:03+00:00,Social Media,Android,True
+user_01043,2026-10-24T03:36:43+00:00,Social Media,Android,True
+user_01044,2026-10-12T14:27:27+00:00,Paid Ads,Android,True
+user_01045,2026-05-09T23:57:45+00:00,Referral,Android,True
+user_01046,2026-05-07T12:12:48+00:00,Organic Search,Android,True
+user_01047,2026-09-03T13:22:27+00:00,Referral,Android,True
+user_01048,2026-06-22T09:22:09+00:00,Social Media,Android,True
+user_01049,2026-09-27T22:16:16+00:00,Social Media,Android,True
+user_01050,2026-08-30T00:34:38+00:00,Social Media,Android,True
+user_01051,2026-08-06T17:00:32+00:00,Paid Ads,Android,True
+user_01052,2026-08-15T22:33:31+00:00,Organic Search,Android,True
+user_01053,2026-06-29T15:50:38+00:00,Play Store,Android,True
+user_01054,2026-10-05T06:06:06+00:00,Referral,Android,True
+user_01055,2026-07-19T20:30:42+00:00,Organic Search,Android,True
+user_01056,2026-05-16T04:03:44+00:00,Social Media,Android,True
+user_01057,2026-06-01T16:41:29+00:00,Play Store,Android,True
+user_01058,2026-08-04T00:45:25+00:00,Play Store,Android,True
+user_01059,2026-07-07T01:23:44+00:00,Social Media,Android,True
+user_01060,2026-07-01T16:43:24+00:00,Referral,Android,True
+user_01061,2026-07-03T00:06:20+00:00,Referral,Android,True
+user_01062,2026-10-16T03:29:47+00:00,Play Store,Android,True
+user_01063,2026-07-18T10:08:14+00:00,Organic Search,Android,True
+user_01064,2026-07-12T22:49:32+00:00,Play Store,Android,True
+user_01065,2026-05-22T14:50:10+00:00,Play Store,Android,True
+user_01066,2026-07-31T13:54:11+00:00,Organic Search,Android,True
+user_01067,2026-07-28T07:15:09+00:00,Organic Search,Android,True
+user_01068,2026-05-20T19:09:30+00:00,Organic Search,Android,True
+user_01069,2026-07-15T14:15:04+00:00,Referral,Android,True
+user_01070,2026-07-22T04:37:56+00:00,Organic Search,Android,True
+user_01071,2026-10-17T00:36:30+00:00,Paid Ads,Android,True
+user_01072,2026-10-06T23:03:53+00:00,Play Store,Android,True
+user_01073,2026-08-22T04:12:00+00:00,Social Media,Android,True
+user_01074,2026-06-07T20:40:27+00:00,Referral,Android,True
+user_01075,2026-08-06T18:04:08+00:00,Paid Ads,Android,True
+user_01076,2026-07-31T15:29:58+00:00,Play Store,Android,True
+user_01077,2026-06-30T21:53:10+00:00,Play Store,Android,True
+user_01078,2026-05-19T11:38:33+00:00,Paid Ads,Android,True
+user_01079,2026-08-08T03:31:30+00:00,Play Store,Android,True
+user_01080,2026-06-17T17:51:36+00:00,Organic Search,Android,True
+user_01081,2026-07-09T12:35:37+00:00,Organic Search,Android,True
+user_01082,2026-06-25T15:11:56+00:00,Play Store,Android,True
+user_01083,2026-10-20T07:58:59+00:00,Referral,Android,True
+user_01084,2026-09-09T14:09:23+00:00,Play Store,Android,True
+user_01085,2026-08-14T05:08:36+00:00,Organic Search,Android,True
+user_01086,2026-05-22T20:57:21+00:00,Play Store,Android,True
+user_01087,2026-10-20T08:31:30+00:00,Organic Search,Android,True
+user_01088,2026-07-12T00:37:50+00:00,Referral,Android,True
+user_01089,2026-07-12T01:22:30+00:00,Organic Search,Android,True
+user_01090,2026-05-11T22:23:43+00:00,Social Media,Android,True
+user_01091,2026-06-08T19:08:34+00:00,Play Store,Android,True
+user_01092,2026-06-27T00:57:53+00:00,Organic Search,Android,True
+user_01093,2026-08-07T21:59:03+00:00,Play Store,Android,True
+user_01094,2026-08-16T18:30:11+00:00,Organic Search,Android,True
+user_01095,2026-08-31T00:29:58+00:00,Social Media,Android,True
+user_01096,2026-05-25T01:40:58+00:00,Organic Search,Android,True
+user_01097,2026-05-20T18:33:06+00:00,Play Store,Android,True
+user_01098,2026-10-03T08:28:22+00:00,Paid Ads,Android,True
+user_01099,2026-08-18T07:40:05+00:00,Paid Ads,Android,True
+user_01100,2026-09-25T14:22:33+00:00,Organic Search,Android,True
+user_01101,2026-08-26T23:39:51+00:00,Play Store,Android,True
+user_01102,2026-08-07T02:30:55+00:00,Organic Search,Android,True
+user_01103,2026-05-09T13:20:08+00:00,Organic Search,Android,True
+user_01104,2026-07-05T16:03:55+00:00,Referral,Android,True
+user_01105,2026-08-10T20:14:57+00:00,Play Store,Android,True
+user_01106,2026-08-27T17:21:43+00:00,Paid Ads,Android,True
+user_01107,2026-05-29T03:24:35+00:00,Play Store,Android,True
+user_01108,2026-08-29T01:05:16+00:00,Play Store,Android,True
+user_01109,2026-07-17T07:17:03+00:00,Paid Ads,Android,True
+user_01110,2026-09-22T13:27:40+00:00,Referral,Android,True
+user_01111,2026-08-25T06:56:26+00:00,Play Store,Android,True
+user_01112,2026-10-09T20:05:29+00:00,Play Store,Android,True
+user_01113,2026-08-05T02:50:03+00:00,Social Media,Android,True
+user_01114,2026-06-29T05:06:31+00:00,Play Store,Android,True
+user_01115,2026-05-05T05:31:01+00:00,Play Store,Android,True
+user_01116,2026-09-09T20:08:55+00:00,Organic Search,Android,True
+user_01117,2026-07-21T21:12:06+00:00,Social Media,Android,True
+user_01118,2026-10-03T17:07:47+00:00,Paid Ads,Android,True
+user_01119,2026-10-18T08:15:35+00:00,Social Media,Android,True
+user_01120,2026-05-07T04:10:05+00:00,Social Media,Android,True
+user_01121,2026-06-22T13:26:41+00:00,Paid Ads,Android,True
+user_01122,2026-10-01T00:34:49+00:00,Paid Ads,Android,True
+user_01123,2026-08-22T07:52:08+00:00,Social Media,Android,True
+user_01124,2026-09-19T01:57:05+00:00,Organic Search,Android,True
+user_01125,2026-08-03T07:02:13+00:00,Organic Search,Android,True
+user_01126,2026-09-01T03:27:12+00:00,Social Media,Android,True
+user_01127,2026-09-29T09:54:34+00:00,Referral,Android,True
+user_01128,2026-05-30T16:40:04+00:00,Referral,Android,True
+user_01129,2026-06-18T00:42:04+00:00,Organic Search,Android,True
+user_01130,2026-09-15T00:38:50+00:00,Organic Search,Android,True
+user_01131,2026-05-05T16:14:16+00:00,Play Store,Android,True
+user_01132,2026-07-22T07:38:27+00:00,Organic Search,Android,True
+user_01133,2026-09-13T01:56:52+00:00,Organic Search,Android,True
+user_01134,2026-08-07T10:37:54+00:00,Referral,Android,True
+user_01135,2026-10-27T17:55:18+00:00,Play Store,Android,True
+user_01136,2026-10-13T17:42:24+00:00,Referral,Android,True
+user_01137,2026-05-14T02:14:06+00:00,Social Media,Android,True
+user_01138,2026-08-10T17:13:20+00:00,Organic Search,Android,True
+user_01139,2026-07-04T02:49:26+00:00,Paid Ads,Android,True
+user_01140,2026-08-02T21:21:13+00:00,Play Store,Android,True
+user_01141,2026-07-01T22:10:35+00:00,Paid Ads,Android,True
+user_01142,2026-07-30T06:10:14+00:00,Paid Ads,Android,True
+user_01143,2026-07-07T11:20:34+00:00,Play Store,Android,True
+user_01144,2026-09-10T05:45:33+00:00,Referral,Android,True
+user_01145,2026-09-18T23:44:07+00:00,Social Media,Android,True
+user_01146,2026-10-05T01:16:32+00:00,Social Media,Android,True
+user_01147,2026-08-28T11:08:46+00:00,Play Store,Android,True
+user_01148,2026-06-18T20:50:44+00:00,Organic Search,Android,True
+user_01149,2026-06-28T23:05:24+00:00,Organic Search,Android,True
+user_01150,2026-06-28T18:58:03+00:00,Referral,Android,True
+user_01151,2026-09-15T21:03:35+00:00,Organic Search,Android,True
+user_01152,2026-09-15T21:28:00+00:00,Play Store,Android,True
+user_01153,2026-08-03T04:01:45+00:00,Play Store,Android,True
+user_01154,2026-10-03T10:50:27+00:00,Social Media,Android,True
+user_01155,2026-06-26T21:10:44+00:00,Organic Search,Android,True
+user_01156,2026-09-10T09:16:17+00:00,Play Store,Android,True
+user_01157,2026-10-22T22:31:46+00:00,Paid Ads,Android,True
+user_01158,2026-10-07T21:53:55+00:00,Play Store,Android,True
+user_01159,2026-09-29T02:43:27+00:00,Referral,Android,True
+user_01160,2026-06-27T09:35:26+00:00,Organic Search,Android,True
+user_01161,2026-09-17T16:07:22+00:00,Organic Search,Android,True
+user_01162,2026-07-26T21:36:19+00:00,Social Media,Android,True
+user_01163,2026-09-24T02:49:59+00:00,Play Store,Android,True
+user_01164,2026-06-10T05:41:18+00:00,Referral,Android,True
+user_01165,2026-06-23T15:33:12+00:00,Paid Ads,Android,True
+user_01166,2026-09-14T04:22:36+00:00,Organic Search,Android,True
+user_01167,2026-05-23T05:00:57+00:00,Social Media,Android,True
+user_01168,2026-08-23T22:48:42+00:00,Organic Search,Android,True
+user_01169,2026-05-11T20:34:02+00:00,Social Media,Android,True
+user_01170,2026-08-13T02:48:57+00:00,Organic Search,Android,True
+user_01171,2026-06-16T05:04:49+00:00,Organic Search,Android,True
+user_01172,2026-07-21T06:06:26+00:00,Play Store,Android,True
+user_01173,2026-08-01T17:32:42+00:00,Organic Search,Android,True
+user_01174,2026-09-28T16:00:48+00:00,Organic Search,Android,True
+user_01175,2026-08-16T20:48:43+00:00,Paid Ads,Android,True
+user_01176,2026-06-01T16:02:31+00:00,Play Store,Android,True
+user_01177,2026-10-20T00:05:52+00:00,Referral,Android,True
+user_01178,2026-08-02T17:03:16+00:00,Social Media,Android,True
+user_01179,2026-09-25T18:47:03+00:00,Paid Ads,Android,True
+user_01180,2026-07-03T08:43:59+00:00,Organic Search,Android,True
+user_01181,2026-05-13T11:42:03+00:00,Paid Ads,Android,True
+user_01182,2026-05-19T08:54:01+00:00,Social Media,Android,True
+user_01183,2026-06-16T02:12:28+00:00,Play Store,Android,True
+user_01184,2026-09-19T09:57:21+00:00,Referral,Android,True
+user_01185,2026-05-09T05:48:20+00:00,Paid Ads,Android,True
+user_01186,2026-06-04T23:50:39+00:00,Play Store,Android,True
+user_01187,2026-10-11T15:30:18+00:00,Organic Search,Android,True
+user_01188,2026-10-27T13:47:31+00:00,Organic Search,Android,True
+user_01189,2026-10-11T08:58:21+00:00,Play Store,Android,True
+user_01190,2026-08-06T04:38:22+00:00,Organic Search,Android,True
+user_01191,2026-09-24T10:35:28+00:00,Paid Ads,Android,True
+user_01192,2026-06-27T04:59:49+00:00,Referral,Android,True
+user_01193,2026-05-03T19:10:17+00:00,Organic Search,Android,True
+user_01194,2026-08-27T01:09:20+00:00,Organic Search,Android,True
+user_01195,2026-07-06T01:23:33+00:00,Organic Search,Android,True
+user_01196,2026-09-03T12:42:56+00:00,Play Store,Android,True
+user_01197,2026-08-05T21:46:55+00:00,Paid Ads,Android,True
+user_01198,2026-05-28T01:24:01+00:00,Referral,Android,True
+user_01199,2026-07-31T21:07:05+00:00,Organic Search,Android,True
+user_01200,2026-10-06T01:19:45+00:00,Organic Search,Android,True
+user_01201,2026-06-02T13:15:41+00:00,Referral,Android,True
+user_01202,2026-09-04T21:12:43+00:00,Organic Search,Android,True
+user_01203,2026-06-07T03:44:02+00:00,Organic Search,Android,True
+user_01204,2026-07-06T11:02:23+00:00,Referral,Android,True
+user_01205,2026-08-20T06:02:08+00:00,Social Media,Android,True
+user_01206,2026-06-08T12:10:48+00:00,Organic Search,Android,True
+user_01207,2026-10-15T05:54:54+00:00,Social Media,Android,True
+user_01208,2026-07-19T17:42:19+00:00,Referral,Android,True
+user_01209,2026-08-10T01:21:54+00:00,Play Store,Android,True
+user_01210,2026-07-18T20:00:05+00:00,Social Media,Android,True
+user_01211,2026-06-06T21:07:34+00:00,Paid Ads,Android,True
+user_01212,2026-08-02T17:04:50+00:00,Play Store,Android,True
+user_01213,2026-06-19T03:57:59+00:00,Organic Search,Android,True
+user_01214,2026-07-15T11:34:10+00:00,Organic Search,Android,True
+user_01215,2026-09-25T08:44:38+00:00,Organic Search,Android,True
+user_01216,2026-07-05T00:08:54+00:00,Play Store,Android,True
+user_01217,2026-09-19T08:51:36+00:00,Social Media,Android,True
+user_01218,2026-06-21T18:54:33+00:00,Social Media,Android,True
+user_01219,2026-09-13T12:31:08+00:00,Organic Search,Android,True
+user_01220,2026-09-08T16:05:31+00:00,Organic Search,Android,True
+user_01221,2026-06-30T13:48:16+00:00,Organic Search,Android,True
+user_01222,2026-09-12T05:19:05+00:00,Play Store,Android,True
+user_01223,2026-10-22T19:32:14+00:00,Paid Ads,Android,True
+user_01224,2026-09-28T11:42:09+00:00,Play Store,Android,True
+user_01225,2026-05-24T19:10:49+00:00,Social Media,Android,True
+user_01226,2026-06-28T06:57:29+00:00,Play Store,Android,True
+user_01227,2026-06-13T21:12:55+00:00,Organic Search,Android,True
+user_01228,2026-05-27T22:27:32+00:00,Play Store,Android,True
+user_01229,2026-07-29T08:20:15+00:00,Referral,Android,True
+user_01230,2026-08-27T14:55:53+00:00,Play Store,Android,True
+user_01231,2026-09-15T07:15:51+00:00,Play Store,Android,True
+user_01232,2026-08-01T10:12:04+00:00,Referral,Android,True
+user_01233,2026-10-04T17:33:03+00:00,Social Media,Android,True
+user_01234,2026-06-13T09:51:18+00:00,Referral,Android,True
+user_01235,2026-09-11T02:36:23+00:00,Referral,Android,True
+user_01236,2026-10-18T13:05:15+00:00,Referral,Android,True
+user_01237,2026-08-12T01:01:18+00:00,Play Store,Android,True
+user_01238,2026-09-15T15:46:16+00:00,Play Store,Android,True
+user_01239,2026-10-27T02:39:12+00:00,Social Media,Android,True
+user_01240,2026-05-13T23:47:48+00:00,Referral,Android,True
+user_01241,2026-10-24T07:44:49+00:00,Play Store,Android,True
+user_01242,2026-08-21T04:57:59+00:00,Play Store,Android,True
+user_01243,2026-06-02T22:46:55+00:00,Play Store,Android,True
+user_01244,2026-08-11T00:57:02+00:00,Play Store,Android,True
+user_01245,2026-09-11T02:23:20+00:00,Organic Search,Android,True
+user_01246,2026-08-23T05:38:54+00:00,Play Store,Android,True
+user_01247,2026-10-23T13:06:40+00:00,Play Store,Android,True
+user_01248,2026-10-06T00:45:41+00:00,Organic Search,Android,True
+user_01249,2026-05-27T14:53:18+00:00,Play Store,Android,True
+user_01250,2026-07-29T16:49:06+00:00,Social Media,Android,True
+user_01251,2026-08-18T12:10:01+00:00,Play Store,Android,True
+user_01252,2026-10-05T16:28:53+00:00,Play Store,Android,True
+user_01253,2026-05-06T05:26:27+00:00,Play Store,Android,True
+user_01254,2026-10-07T12:55:52+00:00,Organic Search,Android,True
+user_01255,2026-06-13T07:28:37+00:00,Social Media,Android,True
+user_01256,2026-05-10T19:02:56+00:00,Play Store,Android,True
+user_01257,2026-09-15T00:00:48+00:00,Organic Search,Android,True
+user_01258,2026-05-13T16:47:41+00:00,Paid Ads,Android,True
+user_01259,2026-05-15T09:38:09+00:00,Paid Ads,Android,True
+user_01260,2026-08-01T15:59:40+00:00,Organic Search,Android,True
+user_01261,2026-07-20T09:26:28+00:00,Organic Search,Android,True
+user_01262,2026-05-28T07:07:39+00:00,Referral,Android,True
+user_01263,2026-09-20T14:43:07+00:00,Social Media,Android,True
+user_01264,2026-07-22T15:00:43+00:00,Play Store,Android,True
+user_01265,2026-10-22T01:53:56+00:00,Play Store,Android,True
+user_01266,2026-10-17T20:42:27+00:00,Paid Ads,Android,True
+user_01267,2026-07-14T07:14:37+00:00,Play Store,Android,True
+user_01268,2026-09-11T13:44:14+00:00,Paid Ads,Android,True
+user_01269,2026-10-18T19:41:56+00:00,Play Store,Android,True
+user_01270,2026-09-05T21:40:22+00:00,Referral,Android,True
+user_01271,2026-05-25T00:51:14+00:00,Organic Search,Android,True
+user_01272,2026-08-14T07:47:21+00:00,Play Store,Android,True
+user_01273,2026-05-26T17:27:49+00:00,Social Media,Android,True
+user_01274,2026-06-14T05:47:41+00:00,Referral,Android,True
+user_01275,2026-09-25T20:02:05+00:00,Organic Search,Android,True
+user_01276,2026-06-28T22:27:20+00:00,Play Store,Android,True
+user_01277,2026-09-18T15:12:14+00:00,Play Store,Android,True
+user_01278,2026-08-13T06:58:25+00:00,Play Store,Android,True
+user_01279,2026-06-15T14:17:43+00:00,Organic Search,Android,True
+user_01280,2026-07-08T05:12:16+00:00,Organic Search,Android,True
+user_01281,2026-06-07T14:21:57+00:00,Paid Ads,Android,True
+user_01282,2026-09-19T18:50:23+00:00,Referral,Android,True
+user_01283,2026-05-08T06:07:36+00:00,Referral,Android,True
+user_01284,2026-07-22T09:47:10+00:00,Social Media,Android,True
+user_01285,2026-10-20T14:35:15+00:00,Paid Ads,Android,True
+user_01286,2026-06-17T17:34:10+00:00,Organic Search,Android,True
+user_01287,2026-05-21T14:11:45+00:00,Social Media,Android,True
+user_01288,2026-07-27T16:32:58+00:00,Social Media,Android,True
+user_01289,2026-09-15T13:32:05+00:00,Referral,Android,True
+user_01290,2026-06-18T12:31:37+00:00,Referral,Android,True
+user_01291,2026-07-19T02:40:32+00:00,Play Store,Android,True
+user_01292,2026-08-14T19:26:46+00:00,Organic Search,Android,True
+user_01293,2026-10-16T17:15:28+00:00,Referral,Android,True
+user_01294,2026-05-29T05:03:44+00:00,Play Store,Android,True
+user_01295,2026-06-27T04:02:55+00:00,Organic Search,Android,True
+user_01296,2026-10-26T22:42:10+00:00,Referral,Android,True
+user_01297,2026-07-02T22:10:56+00:00,Social Media,Android,True
+user_01298,2026-09-29T00:16:20+00:00,Social Media,Android,True
+user_01299,2026-07-03T06:23:27+00:00,Organic Search,Android,True
+user_01300,2026-10-19T03:38:35+00:00,Organic Search,Android,True
+user_01301,2026-09-07T04:47:46+00:00,Play Store,Android,True
+user_01302,2026-07-21T07:18:48+00:00,Play Store,Android,True
+user_01303,2026-05-13T20:03:59+00:00,Social Media,Android,True
+user_01304,2026-08-24T21:21:07+00:00,Referral,Android,True
+user_01305,2026-10-26T00:14:35+00:00,Organic Search,Android,True
+user_01306,2026-09-10T19:11:17+00:00,Play Store,Android,True
+user_01307,2026-08-06T05:44:37+00:00,Organic Search,Android,True
+user_01308,2026-07-07T21:04:21+00:00,Paid Ads,Android,True
+user_01309,2026-09-09T08:39:58+00:00,Play Store,Android,True
+user_01310,2026-08-11T20:09:30+00:00,Play Store,Android,True
+user_01311,2026-07-21T20:11:48+00:00,Play Store,Android,True
+user_01312,2026-06-29T05:33:54+00:00,Play Store,Android,True
+user_01313,2026-09-25T11:49:01+00:00,Play Store,Android,True
+user_01314,2026-06-17T18:58:35+00:00,Referral,Android,True
+user_01315,2026-06-29T09:30:59+00:00,Referral,Android,True
+user_01316,2026-05-30T00:42:40+00:00,Referral,Android,True
+user_01317,2026-10-26T14:59:10+00:00,Organic Search,Android,True
+user_01318,2026-07-21T03:11:59+00:00,Paid Ads,Android,True
+user_01319,2026-08-18T05:07:40+00:00,Play Store,Android,True
+user_01320,2026-07-16T10:08:50+00:00,Organic Search,Android,True
+user_01321,2026-06-10T11:36:04+00:00,Play Store,Android,True
+user_01322,2026-05-17T08:28:41+00:00,Paid Ads,Android,True
+user_01323,2026-10-13T11:54:39+00:00,Play Store,Android,True
+user_01324,2026-08-14T00:13:33+00:00,Social Media,Android,True
+user_01325,2026-06-07T23:41:31+00:00,Organic Search,Android,True
+user_01326,2026-07-14T05:42:48+00:00,Social Media,Android,True
+user_01327,2026-08-27T01:48:13+00:00,Organic Search,Android,True
+user_01328,2026-05-16T03:10:58+00:00,Organic Search,Android,True
+user_01329,2026-09-26T21:44:45+00:00,Social Media,Android,True
+user_01330,2026-09-09T09:10:10+00:00,Social Media,Android,True
+user_01331,2026-08-03T02:07:20+00:00,Organic Search,Android,True
+user_01332,2026-10-25T03:03:45+00:00,Play Store,Android,True
+user_01333,2026-10-25T12:12:11+00:00,Organic Search,Android,True
+user_01334,2026-06-07T21:33:28+00:00,Paid Ads,Android,True
+user_01335,2026-05-24T18:42:59+00:00,Referral,Android,True
+user_01336,2026-09-25T11:25:09+00:00,Play Store,Android,True
+user_01337,2026-06-18T02:32:58+00:00,Social Media,Android,True
+user_01338,2026-09-15T15:46:57+00:00,Organic Search,Android,True
+user_01339,2026-10-26T16:46:54+00:00,Organic Search,Android,True
+user_01340,2026-07-03T10:49:04+00:00,Referral,Android,True
+user_01341,2026-07-14T21:59:44+00:00,Play Store,Android,True
+user_01342,2026-09-04T23:14:38+00:00,Play Store,Android,True
+user_01343,2026-06-21T18:56:55+00:00,Play Store,Android,True
+user_01344,2026-10-20T10:11:06+00:00,Play Store,Android,True
+user_01345,2026-05-21T03:31:51+00:00,Referral,Android,True
+user_01346,2026-09-19T06:40:28+00:00,Play Store,Android,True
+user_01347,2026-10-12T01:24:51+00:00,Play Store,Android,True
+user_01348,2026-06-10T10:37:33+00:00,Play Store,Android,True
+user_01349,2026-07-21T09:02:15+00:00,Organic Search,Android,True
+user_01350,2026-10-16T18:54:38+00:00,Organic Search,Android,True
+user_01351,2026-05-30T08:01:56+00:00,Organic Search,Android,True
+user_01352,2026-08-17T10:36:07+00:00,Paid Ads,Android,True
+user_01353,2026-08-22T10:59:05+00:00,Social Media,Android,True
+user_01354,2026-06-28T07:40:44+00:00,Organic Search,Android,True
+user_01355,2026-07-05T01:16:01+00:00,Organic Search,Android,True
+user_01356,2026-08-20T15:23:41+00:00,Referral,Android,True
+user_01357,2026-08-06T22:53:48+00:00,Social Media,Android,True
+user_01358,2026-09-11T23:35:59+00:00,Play Store,Android,True
+user_01359,2026-09-27T05:30:06+00:00,Referral,Android,True
+user_01360,2026-09-19T12:00:27+00:00,Social Media,Android,True
+user_01361,2026-08-05T06:19:28+00:00,Play Store,Android,True
+user_01362,2026-09-21T06:56:58+00:00,Referral,Android,True
+user_01363,2026-06-03T20:49:07+00:00,Organic Search,Android,True
+user_01364,2026-08-16T03:04:25+00:00,Play Store,Android,True
+user_01365,2026-10-27T01:02:39+00:00,Paid Ads,Android,True
+user_01366,2026-09-03T15:01:55+00:00,Paid Ads,Android,True
+user_01367,2026-08-11T17:44:28+00:00,Organic Search,Android,True
+user_01368,2026-10-13T09:52:44+00:00,Organic Search,Android,True
+user_01369,2026-10-07T20:07:14+00:00,Social Media,Android,True
+user_01370,2026-09-27T10:03:37+00:00,Organic Search,Android,True
+user_01371,2026-05-28T16:44:25+00:00,Referral,Android,True
+user_01372,2026-06-15T22:32:28+00:00,Organic Search,Android,True
+user_01373,2026-05-31T07:49:57+00:00,Organic Search,Android,True
+user_01374,2026-08-08T04:52:10+00:00,Play Store,Android,True
+user_01375,2026-05-13T17:42:04+00:00,Social Media,Android,True
+user_01376,2026-09-08T11:17:08+00:00,Paid Ads,Android,True
+user_01377,2026-10-26T05:42:48+00:00,Play Store,Android,True
+user_01378,2026-08-04T17:32:58+00:00,Organic Search,Android,True
+user_01379,2026-08-13T08:16:23+00:00,Social Media,Android,True
+user_01380,2026-05-04T07:12:46+00:00,Organic Search,Android,True
+user_01381,2026-09-19T05:38:43+00:00,Organic Search,Android,True
+user_01382,2026-06-26T16:02:55+00:00,Organic Search,Android,True
+user_01383,2026-10-06T21:34:14+00:00,Social Media,Android,True
+user_01384,2026-07-24T14:35:59+00:00,Referral,Android,True
+user_01385,2026-10-25T15:50:04+00:00,Organic Search,Android,True
+user_01386,2026-10-27T06:24:03+00:00,Organic Search,Android,True
+user_01387,2026-05-30T21:53:45+00:00,Organic Search,Android,True
+user_01388,2026-08-30T08:22:17+00:00,Play Store,Android,True
+user_01389,2026-10-07T07:09:27+00:00,Play Store,Android,True
+user_01390,2026-10-03T08:39:18+00:00,Play Store,Android,True
+user_01391,2026-07-13T10:31:46+00:00,Paid Ads,Android,True
+user_01392,2026-07-30T03:04:04+00:00,Social Media,Android,True
+user_01393,2026-09-14T09:20:24+00:00,Organic Search,Android,True
+user_01394,2026-09-11T19:50:54+00:00,Referral,Android,True
+user_01395,2026-05-17T15:41:07+00:00,Social Media,Android,True
+user_01396,2026-10-15T15:34:28+00:00,Social Media,Android,True
+user_01397,2026-05-08T03:38:37+00:00,Organic Search,Android,True
+user_01398,2026-07-14T15:28:54+00:00,Play Store,Android,True
+user_01399,2026-08-02T10:19:40+00:00,Organic Search,Android,True
+user_01400,2026-05-03T20:01:27+00:00,Social Media,Android,True
+user_01401,2026-05-18T01:19:42+00:00,Play Store,Android,True
+user_01402,2026-07-25T06:08:55+00:00,Social Media,Android,True
+user_01403,2026-07-05T07:48:58+00:00,Social Media,Android,True
+user_01404,2026-10-15T14:22:05+00:00,Paid Ads,Android,True
+user_01405,2026-10-22T18:00:45+00:00,Play Store,Android,True
+user_01406,2026-05-10T06:17:20+00:00,Organic Search,Android,True
+user_01407,2026-10-24T00:13:11+00:00,Referral,Android,True
+user_01408,2026-10-21T08:17:10+00:00,Social Media,Android,True
+user_01409,2026-06-23T15:22:40+00:00,Organic Search,Android,True
+user_01410,2026-05-16T10:28:13+00:00,Social Media,Android,True
+user_01411,2026-06-25T10:36:58+00:00,Paid Ads,Android,True
+user_01412,2026-08-19T10:07:46+00:00,Social Media,Android,True
+user_01413,2026-06-05T19:50:09+00:00,Paid Ads,Android,True
+user_01414,2026-07-02T01:35:17+00:00,Organic Search,Android,True
+user_01415,2026-06-11T05:24:36+00:00,Social Media,Android,True
+user_01416,2026-09-25T01:44:35+00:00,Referral,Android,True
+user_01417,2026-10-08T09:39:56+00:00,Play Store,Android,True
+user_01418,2026-05-16T22:32:16+00:00,Organic Search,Android,True
+user_01419,2026-08-19T12:13:08+00:00,Organic Search,Android,True
+user_01420,2026-10-11T01:44:12+00:00,Referral,Android,True
+user_01421,2026-09-10T11:11:41+00:00,Paid Ads,Android,True
+user_01422,2026-07-05T09:57:23+00:00,Play Store,Android,True
+user_01423,2026-09-22T15:26:44+00:00,Organic Search,Android,True
+user_01424,2026-09-12T20:24:11+00:00,Social Media,Android,True
+user_01425,2026-08-07T05:50:49+00:00,Referral,Android,True
+user_01426,2026-07-08T03:48:19+00:00,Organic Search,Android,True
+user_01427,2026-07-25T20:57:44+00:00,Organic Search,Android,True
+user_01428,2026-05-16T18:15:14+00:00,Play Store,Android,True
+user_01429,2026-09-28T07:48:33+00:00,Social Media,Android,True
+user_01430,2026-08-25T15:43:15+00:00,Play Store,Android,True
+user_01431,2026-09-29T05:00:37+00:00,Play Store,Android,True
+user_01432,2026-09-02T03:12:37+00:00,Organic Search,Android,True
+user_01433,2026-07-28T11:41:57+00:00,Play Store,Android,True
+user_01434,2026-07-10T02:11:01+00:00,Social Media,Android,True
+user_01435,2026-07-13T21:35:59+00:00,Play Store,Android,True
+user_01436,2026-09-10T23:35:27+00:00,Social Media,Android,True
+user_01437,2026-07-14T19:15:02+00:00,Organic Search,Android,True
+user_01438,2026-08-30T02:56:32+00:00,Organic Search,Android,True
+user_01439,2026-06-18T20:31:21+00:00,Social Media,Android,True
+user_01440,2026-05-17T22:18:29+00:00,Organic Search,Android,True
+user_01441,2026-07-14T18:54:41+00:00,Social Media,Android,True
+user_01442,2026-09-02T02:10:32+00:00,Organic Search,Android,True
+user_01443,2026-07-16T15:45:12+00:00,Play Store,Android,True
+user_01444,2026-05-22T16:32:47+00:00,Organic Search,Android,True
+user_01445,2026-06-30T20:36:49+00:00,Play Store,Android,True
+user_01446,2026-09-26T20:06:54+00:00,Organic Search,Android,True
+user_01447,2026-05-27T17:30:38+00:00,Organic Search,Android,True
+user_01448,2026-07-24T16:29:36+00:00,Play Store,Android,True
+user_01449,2026-08-17T17:15:32+00:00,Play Store,Android,True
+user_01450,2026-05-22T01:21:47+00:00,Organic Search,Android,True
+user_01451,2026-07-09T17:20:36+00:00,Social Media,Android,True
+user_01452,2026-08-25T21:51:12+00:00,Social Media,Android,True
+user_01453,2026-07-03T23:56:17+00:00,Referral,Android,True
+user_01454,2026-05-04T09:29:41+00:00,Organic Search,Android,True
+user_01455,2026-07-16T07:15:36+00:00,Referral,Android,True
+user_01456,2026-09-19T18:00:01+00:00,Paid Ads,Android,True
+user_01457,2026-10-24T18:33:22+00:00,Paid Ads,Android,True
+user_01458,2026-06-18T03:14:43+00:00,Social Media,Android,True
+user_01459,2026-06-03T22:17:49+00:00,Social Media,Android,True
+user_01460,2026-06-03T21:55:07+00:00,Organic Search,Android,True
+user_01461,2026-06-29T11:21:24+00:00,Organic Search,Android,True
+user_01462,2026-05-30T08:05:20+00:00,Organic Search,Android,True
+user_01463,2026-07-25T09:43:17+00:00,Organic Search,Android,True
+user_01464,2026-06-29T04:55:48+00:00,Play Store,Android,True
+user_01465,2026-05-16T22:27:46+00:00,Play Store,Android,True
+user_01466,2026-06-18T21:10:34+00:00,Social Media,Android,True
+user_01467,2026-08-06T06:35:24+00:00,Social Media,Android,True
+user_01468,2026-06-08T23:18:14+00:00,Play Store,Android,True
+user_01469,2026-05-28T07:24:37+00:00,Play Store,Android,True
+user_01470,2026-07-17T20:02:29+00:00,Play Store,Android,True
+user_01471,2026-08-30T10:17:18+00:00,Play Store,Android,True
+user_01472,2026-10-16T10:07:07+00:00,Play Store,Android,True
+user_01473,2026-07-05T23:58:01+00:00,Play Store,Android,True
+user_01474,2026-10-08T21:56:08+00:00,Referral,Android,True
+user_01475,2026-08-25T10:03:18+00:00,Organic Search,Android,True
+user_01476,2026-07-03T06:23:28+00:00,Social Media,Android,True
+user_01477,2026-09-14T00:16:49+00:00,Organic Search,Android,True
+user_01478,2026-07-02T00:11:00+00:00,Organic Search,Android,True
+user_01479,2026-07-18T07:54:51+00:00,Paid Ads,Android,True
+user_01480,2026-06-27T14:13:48+00:00,Referral,Android,True
+user_01481,2026-09-01T21:31:21+00:00,Play Store,Android,True
+user_01482,2026-08-21T19:46:31+00:00,Referral,Android,True
+user_01483,2026-07-04T06:43:23+00:00,Play Store,Android,True
+user_01484,2026-10-07T13:07:24+00:00,Referral,Android,True
+user_01485,2026-07-11T21:04:44+00:00,Organic Search,Android,True
+user_01486,2026-08-19T11:43:01+00:00,Organic Search,Android,True
+user_01487,2026-08-15T22:47:57+00:00,Organic Search,Android,True
+user_01488,2026-09-28T01:20:31+00:00,Social Media,Android,True
+user_01489,2026-09-20T05:02:35+00:00,Play Store,Android,True
+user_01490,2026-09-16T13:12:47+00:00,Organic Search,Android,True
+user_01491,2026-10-03T21:28:02+00:00,Organic Search,Android,True
+user_01492,2026-09-13T12:49:47+00:00,Organic Search,Android,True
+user_01493,2026-10-13T14:57:41+00:00,Referral,Android,True
+user_01494,2026-07-20T10:43:16+00:00,Social Media,Android,True
+user_01495,2026-05-29T00:36:18+00:00,Social Media,Android,True
+user_01496,2026-06-17T23:53:01+00:00,Organic Search,Android,True
+user_01497,2026-05-31T22:20:34+00:00,Social Media,Android,True
+user_01498,2026-10-02T05:20:51+00:00,Play Store,Android,True
+user_01499,2026-07-28T04:47:09+00:00,Paid Ads,Android,True
+user_01500,2026-08-03T01:22:44+00:00,Social Media,Android,True
