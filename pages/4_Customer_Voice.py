@@ -248,7 +248,3 @@ if isinstance(product_dates, (tuple, list)) and len(product_dates) == 2:
     else:
         st.info("No meaningful product activity in that period.")
 
-st.caption(
-    "Review sentiment uses the existing labels in your review dataset. "
-    "Product analytics is synthetic and illustrative."
-)

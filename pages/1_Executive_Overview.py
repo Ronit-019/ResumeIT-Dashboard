@@ -36,10 +36,6 @@ download_successes = events[
     events["event_name"] == "cv_download_succeeded"
 ]
 downloaders = download_successes["user_id"].nunique()
-# download_rate = (
-#     len(download_successes) / len(download_attempts) * 100
-#     if len(download_attempts) else 0
-# )
 
 successful_transactions = transactions[
     transactions["payment_status"].astype(str).str.lower() == "success"
@@ -49,12 +45,11 @@ revenue = pd.to_numeric(
     successful_transactions["recognized_revenue_inr"], errors="coerce"
 ).fillna(0).sum()
 
-c1, c2, c3, c5 = st.columns(4)
+c1, c2, c3, c4 = st.columns(4)
 c1.metric("New Users", f"{new_users:,}")
 c2.metric("Activation Rate", f"{activation_rate:.1f}%")
 c3.metric("Unique CV Downloaders", f"{downloaders:,}")
-# c4.metric("CV Download Success", f"{download_rate:.1f}%")
-c5.metric("Recognized Revenue", f"₹{revenue:,.0f}")
+c4.metric("Recognized Revenue", f"₹{revenue:,.0f}")
 
 st.divider()
 st.subheader("Acquisition Trend")
@@ -72,16 +67,3 @@ else:
     )
     st.plotly_chart(fig, use_container_width=True)
 
-# st.subheader("Purchase Overview")
-# a, b, c = st.columns(3)
-# a.metric("Successful Purchases", f"{len(successful_transactions):,}")
-# b.metric("Unique Paying Users", f"{paying_users:,}")
-# c.metric(
-#     "ARPPU",
-#     f"₹{revenue / paying_users:,.2f}" if paying_users else "₹0.00",
-# )
-
-st.caption(
-    "Product analytics data is synthetic and illustrative. "
-    "Activation is defined as completing at least one selected meaningful action."
-)

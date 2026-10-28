@@ -144,9 +144,3 @@ b.metric("Parse Successes", f"{parse_count:,}")
 c.metric("Parsing Success Rate", f"{parse_rate:.1f}%")
 d.metric("CV Download Success Rate", f"{download_rate:.1f}%")
 
-st.caption(
-    "Product analytics data is synthetic. Revenue uses successful "
-    "transactions within the selected period. Paywall conversion is an "
-    "estimate based on a seven-day post-view attribution window; it does "
-    "not establish that a specific paywall caused a purchase."
-)

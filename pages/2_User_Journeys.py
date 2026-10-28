@@ -189,14 +189,3 @@ if branch_events:
         use_container_width=True,
         hide_index=True,
     )
-    st.caption(
-        "Branch/outcome counts are event occurrences, not unique sessions or "
-        "sequential funnel counts. A session may contribute to multiple rows."
-    )
-
-st.caption(
-    "Method: sequential counts require each displayed step in timestamp order. "
-    "Optional steps are excluded from the required funnel; alternative branch "
-    "events are reported separately. Data is synthetic and illustrative, not "
-    "real app telemetry."
-)
